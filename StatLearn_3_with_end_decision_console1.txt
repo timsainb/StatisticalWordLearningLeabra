@@ -1,0 +1,71 @@
+emergent> 
+Network: Network_1 auto building
+***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+   getting a new spec of type: TdLayerSpec
+***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+   set spec pointer to NEW spec I just created, named: TdLayerSpec_1 of type: TdLayerSpec
+***WARNING: TdLayerSpec TdLayerSpec_1::LeabraLayerSpec decay.phase should be 0 or small for for CTLEABRA_X/CAL -- I just set it to 0 for you in spec:() (path: 
+.projects["StatLearn_3_with_end_decision"].networks["Network_1"].specs["TdLayerSpec_1"])
+ TdLayerSpec_1
+LeabraTrain  line: 000063
+  network->CheckConfig(false);
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ requires UnitSpec act_range.max = 2, min = -2, I just set it for you in spec: LeabraUnitSpec_1 (make sure this is appropriate for all layers that use this spec!)
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ requires UnitSpec clamp_range.max = 2, min = -2, I just set it for you in spec: LeabraUnitSpec_1 (make sure this is appropriate for all layers that use this spec!)
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ did not find TDRewInteg layer to get Td from!
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ did not find TDRewInteg layer to get Td from!
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs  line: 000019
+  LayerWriter_0->AutoConfig();
+Coin warning in cc_glglue_instance(): Error when setting up the GL context. This can happen if there is no current context, or if the context has been set up incorrectly.
+Coin warning in cc_glglue_instance(): Error when setting up the GL context. This can happen if there is no current context, or if the context has been set up incorrectly.
+Network: Network_1 auto building
+***ERROR: data not available for reading from datatable: StdInputData you must perform a ReadItem or ReadFirst/Next on data to select row to read input patterns from (std Epoch program does this in NetDataLoop) 
+
+Path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"]
+
+From: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::ApplyInputData()
+
+ApplyInputs  line: 000029
+  LayerWriter_0->ApplyInputData();
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+***WARNING: GraphTableView -- X axis is not on -- perhaps no valid col_name found for x_axis -- switching to row_num!
+Null pointer for conversion to: T3Panel from: T3Panel     
+emergent 
+***WARNING: GraphTableView -- X axis is not on -- perhaps no valid col_name found for x_axis -- switching to row_num!
+***WARNING: CopyFromSameType: copying from self -- skipping type: float
+***WARNING: taList_impl::MakeElNameUnique names of items on the list must be unique -- renaming: .projects["StatLearn_3_with_end_decision"].viewers["Browser2"].frames["T3Frames"].panels["Network_1"].root_view.children["TrialOutputData_Graph"]
+   to: TrialOutputData_Graph_2
+***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["Copy_of_Target"]
+   getting a new spec of type: LeabraExtOnlyUnitSpec
+***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["Copy_of_Target"]
+   set spec pointer to NEW spec I just created, named: LeabraExtOnlyUnitSpec_1 of type: LeabraExtOnlyUnitSpec
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["Copy_of_Target"]
+   getting a new spec of type: LeabraExtOnlyUnitSpec
+***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["Copy_of_Target"]
+   set spec pointer to existing spec named: LeabraExtOnlyUnitSpec_1 of correct type: LeabraExtOnlyUnitSpec
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+QWidget::repaint: Recursive repaint detected
+Saving recover file(s) and exiting from signal: segmentation violation

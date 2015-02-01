@@ -1,0 +1,1014 @@
+Tue Jan 27 19:47:31 2015: taMisc::SetLogFile -- Log file opened for writing.
+Tue Jan 27 19:47:59 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:48:05 2015: *** LOG: SaveUndo of action: Clear on: StdInputData at path: .data.gp[0][0] saving at: .data.gp[0][0]
+Tue Jan 27 19:48:08 2015: *** LOG: SaveUndo of action: RemoveCols on: StdInputData at path: .data.gp[0][0] saving at: .data.gp[0][0]
+Tue Jan 27 19:48:20 2015: *** LOG: SaveUndo of action: Call Method: StdData on: LeabraWizard_0 at path: .wizards[0] saving at: .
+Tue Jan 27 19:48:20 2015: *** LOG: last_diff_n:  1825  pct:  0.07002
+Tue Jan 27 19:48:28 2015: css Error: Null pointer for conversion to: DataTable from: DataTable     
+emergent 
+
+Tue Jan 27 19:48:45 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:48:58 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:49:06 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:49:09 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:49:17 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:49:21 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:49:25 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:49:41 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 19:49:49 2015: *** LOG: SaveUndo of action: Call Method: LoadAnyData_gui on: Languages at path: .programs[3].objs[0] saving at: .
+Tue Jan 27 19:49:49 2015: *** LOG: last_diff_n:  1820  pct:  0.0698281
+Tue Jan 27 19:50:09 2015: *** LOG: SaveUndo of action: Undo on: StatLearn_3_bilingual2 at path: . saving at: .
+Tue Jan 27 19:50:09 2015: Undoing action: Call Method: LoadAnyData_gui on: Languages at path: .programs[3].objs[0]
+Tue Jan 27 19:50:09 2015: *** LOG: last_diff_n:  2082  pct:  0.0798803
+Tue Jan 27 19:50:10 2015: ***ERROR: Error in: ProgVar L1_12_ = (undefined type)::UpdateAfterEdit() (path: .projects["StatLearn_3_bilingual2"].programs["Stat3"].prog_code[0].local_vars["L1_12_"])
+ Program variable type is undefined -- you must pick an appropriate data type for the variable to hold the information it needs to hold
+emergent 
+
+Tue Jan 27 19:50:10 2015: csssyntax error, unexpected '{'
+["Stat3"].prog_code[4].expr line: 000001
+int __tmp= {0,1,2,3,4,5,6,7,8,9,10,11}
+           ^
+Tue Jan 27 19:50:10 2015: ***ERROR: Program variable type is undefined -- you must pick an appropriate data type for the variable to hold the information it needs to hold 
+
+Path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].prog_code[0].local_vars["L1_12_"]
+
+From: ProgVar L1_12_ = (undefined type)::UpdateAfterEdit()
+Tue Jan 27 19:50:10 2015: csssyntax error, unexpected '{'
+["Stat3_copy"].prog_code[4].expr line: 000001
+int __tmp= {0,1,2,3,4,5,6,7,8,9,10,11}
+           ^
+Tue Jan 27 19:55:31 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 19:55:40 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:55:43 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:55:46 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:55:48 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:55:50 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:55:53 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:55:55 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:55:58 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:01 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:10 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:12 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:15 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:23 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:25 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:28 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:30 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:33 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:35 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:37 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:38 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:40 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:43 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:45 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:47 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:49 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:51 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:53 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:56:59 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:57:02 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:57:04 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:57:07 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][0].data[1] saving at: .data.gp[0][0].data[1]
+Tue Jan 27 19:57:27 2015: *** LOG: SaveUndo of action: RemoveRows on: StdInputData at path: .data.gp[0][0] saving at: .data.gp[0][0]
+Tue Jan 27 19:57:30 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:34 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:35 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:37 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:38 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:39 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:39 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:41 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:43 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:44 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:46 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:47 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:48 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:50 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:51 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:52 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:53 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:56 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:57 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:57:58 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:02 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:03 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:05 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:07 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:08 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:10 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:11 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:13 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:16 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:17 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:19 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:20 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:24 2015: *** LOG: SaveUndo of action: DataTableEdit on: Name at path: .data.gp[0][0].data[0] saving at: .data.gp[0][0].data[0]
+Tue Jan 27 19:58:27 2015: *** LOG: SaveUndo of action: Call Method: SaveData_Gui on: StdInputData at path: .data.gp[0][0] saving at: .
+Tue Jan 27 19:58:27 2015: *** LOG: last_diff_n:  5686  pct:  0.218155
+Tue Jan 27 19:58:47 2015: *** LOG: SaveUndo of action: Paste/Copy on: StdInputData at path: .data.gp[0][0] saving at: .data.gp[0][0]
+Tue Jan 27 19:58:58 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 19:58:59 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 19:58:59 2015: *** LOG: last_diff_n:  1846  pct:  0.0708257
+Tue Jan 27 19:59:00 2015: ***ERROR: Program variable type is undefined -- you must pick an appropriate data type for the variable to hold the information it needs to hold 
+
+Path: .projects["StatLearn_3_bilingual2"].programs["Stat3"].prog_code[0].local_vars["L1_12_"]
+
+From: ProgVar L1_12_ = (undefined type)::UpdateAfterEdit()
+Tue Jan 27 19:59:02 2015: csssyntax error, unexpected '{'
+["Stat3"].prog_code[4].expr line: 000001
+int __tmp= {0,1,2,3,4,5,6,7,8,9,10,11}
+           ^
+Tue Jan 27 19:59:02 2015: css Warning: Null pointer for conversion to: DataTable from: DataTable     
+emergent 
+
+Tue Jan 27 19:59:02 2015: csssyntax error, unexpected ';'
+ line: 000060
+  void L1_12_;  L1_12_ = ;
+                         ^
+Tue Jan 27 19:59:14 2015: csssyntax error, unexpected '{'
+ line: 000083
+  L1_12_ = {0,1,2,3,4,5,6,7,8,9,10,11};
+           ^
+Tue Jan 27 19:59:19 2015: *** LOG: SaveUndo of action: Delete on:  at path: .programs[2].prog_code[4] saving at: .programs[2]
+Tue Jan 27 19:59:21 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat3 at path: .programs[2] saving at: .
+Tue Jan 27 19:59:21 2015: ***ERROR: Error in: ProgVar L1_12_ = (undefined type)::UpdateAfterEdit() (path: .projects["StatLearn_3_bilingual2"].programs["Stat3"].prog_code[0].local_vars["L1_12_"])
+ Program variable type is undefined -- you must pick an appropriate data type for the variable to hold the information it needs to hold
+emergent 
+
+Tue Jan 27 19:59:21 2015: *** LOG: last_diff_n:  1840  pct:  0.0705955
+Tue Jan 27 19:59:21 2015: css Warning: Null pointer for conversion to: DataTable from: DataTable     
+emergent 
+
+Tue Jan 27 19:59:21 2015: csssyntax error, unexpected ';'
+Stat3 line: 000060
+  void L1_12_;  L1_12_ = ;
+                         ^
+Tue Jan 27 19:59:23 2015: ***CHECK ERROR: Config Error in: ProgVar L1_12_ = (undefined type)
+path: .projects["StatLearn_3_bilingual2"].programs["Stat3"].prog_code[0].local_vars["L1_12_"]
+ Program variable type is undefined -- you must pick an appropriate data type for the variable to hold the information it needs to hold
+Tue Jan 27 19:59:31 2015: *** LOG: SaveUndo of action: Delete on: L1_12_ at path: .programs[2].prog_code[0].local_vars[8] saving at: .programs[2]
+Tue Jan 27 19:59:32 2015: *** LOG: SaveUndo of action: Delete on: L1 at path: .programs[2].prog_code[0].local_vars[7] saving at: .programs[2]
+Tue Jan 27 19:59:33 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat3 at path: .programs[2] saving at: .
+Tue Jan 27 19:59:33 2015: *** LOG: last_diff_n:  1843  pct:  0.0707106
+Tue Jan 27 19:59:34 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat3 at path: .programs[2] saving at: .
+Tue Jan 27 19:59:34 2015: *** LOG: last_diff_n:  1843  pct:  0.0707106
+Tue Jan 27 19:59:47 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat3 at path: .programs[2] saving at: .
+Tue Jan 27 19:59:47 2015: *** LOG: last_diff_n:  1790  pct:  0.0686771
+Tue Jan 27 19:59:47 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat3 at path: .programs[2] saving at: .
+Tue Jan 27 19:59:47 2015: *** LOG: last_diff_n:  1790  pct:  0.0686771
+Tue Jan 27 20:00:02 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat3_copy at path: .programs[3] saving at: .
+Tue Jan 27 20:00:02 2015: ***ERROR: Program variable type is undefined -- you must pick an appropriate data type for the variable to hold the information it needs to hold 
+
+Path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].prog_code[0].local_vars["L1_12_"]
+
+From: ProgVar L1_12_ = (undefined type)::UpdateAfterEdit()
+Tue Jan 27 20:00:02 2015: *** LOG: last_diff_n:  1790  pct:  0.0686771
+Tue Jan 27 20:00:04 2015: csssyntax error, unexpected '{'
+["Stat3_copy"].prog_code[4].expr line: 000001
+int __tmp= {0,1,2,3,4,5,6,7,8,9,10,11}
+           ^
+Tue Jan 27 20:00:04 2015: css Warning: Null pointer for conversion to: DataTable from: DataTable     
+emergent 
+
+Tue Jan 27 20:00:04 2015: csssyntax error, unexpected ';'
+ line: 000060
+  void L1_12_;  L1_12_ = ;
+                         ^
+Tue Jan 27 20:00:06 2015: csssyntax error, unexpected '{'
+ line: 000083
+  L1_12_ = {0,1,2,3,4,5,6,7,8,9,10,11};
+           ^
+Tue Jan 27 20:00:08 2015: Cancelling remaining error messages in this batch
+Tue Jan 27 20:00:08 2015: ***CHECK ERROR: Config Error in: ProgVar L1_12_ = (undefined type)
+path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].prog_code[0].local_vars["L1_12_"]
+ Program variable type is undefined -- you must pick an appropriate data type for the variable to hold the information it needs to hold
+Tue Jan 27 20:00:13 2015: *** LOG: SaveUndo of action: Delete on: Stat3_copy at path: .programs[3] saving at: .
+Tue Jan 27 20:00:13 2015: *** LOG: last_diff_n:  2038  pct:  0.0781921
+Tue Jan 27 20:00:18 2015: *** LOG: SaveUndo of action: Duplicate on: Stat3 at path: .programs[2] saving at: .
+Tue Jan 27 20:00:18 2015: *** LOG: last_diff_n:  1221  pct:  0.0468462
+Tue Jan 27 20:00:24 2015: *** LOG: SaveUndo of action: Delete on: Languages at path: .programs[3].objs[0] saving at: .programs[3]
+Tue Jan 27 20:00:36 2015: *** LOG: SaveUndo of action: Delete on: Input at path: .programs[3].types[0] saving at: .programs[3]
+Tue Jan 27 20:00:36 2015: *** LOG: SaveUndo of action: Delete on: Output at path: .programs[3].types[0] saving at: .programs[3]
+Tue Jan 27 20:00:51 2015: *** LOG: SaveUndo of action: Delete on: unit_names at path: .programs[3].vars[0] saving at: .programs[3]
+Tue Jan 27 20:00:52 2015: *** LOG: SaveUndo of action: Delete on: input_data at path: .programs[3].args[0] saving at: .programs[3]
+Tue Jan 27 20:00:53 2015: *** LOG: SaveUndo of action: Delete on: unit_names at path: .programs[3].vars[0] saving at: .programs[3]
+Tue Jan 27 20:00:53 2015: ***ERROR: could not find input_data table -- must set that up to point to your input data table 
+
+Path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].init_code[0]
+
+From: InitNamedUnits Init Named Units::InitNamesTable()
+Tue Jan 27 20:00:55 2015: Cancelling remaining error messages in this batch
+Tue Jan 27 20:00:55 2015: ***ERROR: Error in: InitNamedUnits Init Named Units::InitNamesTable() (path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].init_code[0])
+ could not find input_data table -- must set that up to point to your input data table
+emergent 
+
+Tue Jan 27 20:00:57 2015: *** LOG: SaveUndo of action: Delete on: input_data at path: .programs[3].args[0] saving at: .programs[3]
+Tue Jan 27 20:00:58 2015: *** LOG: SaveUndo of action: Delete on: unit_names at path: .programs[3].vars[0] saving at: .programs[3]
+Tue Jan 27 20:00:58 2015: ***ERROR: Error in: InitNamedUnits Init Named Units::InitNamesTable() (path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].init_code[0])
+ could not find input_data table -- must set that up to point to your input data table
+emergent 
+
+Tue Jan 27 20:00:58 2015: ***ERROR: Error in: InitNamedUnits Init Named Units::InitNamesTable() (path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].init_code[0])
+ could not find input_data table -- must set that up to point to your input data table
+emergent 
+
+Tue Jan 27 20:00:59 2015: *** LOG: SaveUndo of action: Delete on: unit_names at path: .programs[3].vars[0] saving at: .programs[3]
+Tue Jan 27 20:00:59 2015: ***ERROR: Error in: InitNamedUnits Init Named Units::InitNamesTable() (path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].init_code[0])
+ could not find input_data table -- must set that up to point to your input data table
+emergent 
+
+Tue Jan 27 20:01:00 2015: *** LOG: SaveUndo of action: Delete on: input_data at path: .programs[3].args[0] saving at: .programs[3]
+Tue Jan 27 20:01:02 2015: *** LOG: SaveUndo of action: Delete on:  at path: .programs[3].init_code[0] saving at: .programs[3]
+Tue Jan 27 20:01:03 2015: *** LOG: SaveUndo of action: Delete on: unit_names at path: .programs[3].vars[0] saving at: .programs[3]
+Tue Jan 27 20:01:03 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:01:04 2015: *** LOG: SaveUndo of action: Delete on: input_data at path: .programs[3].args[0] saving at: .programs[3]
+Tue Jan 27 20:01:18 2015: *** LOG: SaveUndo of action: Paste/Copy on:  at path: .programs[3].init_code saving at: .programs[3]
+Tue Jan 27 20:01:18 2015: ***ERROR: could not find input_data table -- must set that up to point to your input data table 
+
+Path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].init_code[0]
+
+From: InitNamedUnits Init Named Units::InitNamesTable()
+Tue Jan 27 20:01:20 2015: Cancelling remaining error messages in this batch
+Tue Jan 27 20:01:28 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].init_code[0] saving at: .programs[3].init_code[0]
+Tue Jan 27 20:01:28 2015: ***ERROR: Error in: InitNamedUnits Init Named Units::InitNamesTable() (path: .projects["StatLearn_3_bilingual2"].programs["Stat3_copy"].init_code[0])
+ could not find input_data table -- must set that up to point to your input data table
+emergent 
+
+Tue Jan 27 20:01:34 2015: *** LOG: SaveUndo of action: Delete on: input_data at path: .programs[3].args[0] saving at: .programs[3]
+Tue Jan 27 20:02:03 2015: *** LOG: SaveUndo of action: Edit on: input_data at path: .programs[3].args[0] saving at: .programs[3].args[0]
+Tue Jan 27 20:02:11 2015: *** LOG: SaveUndo of action: Call Method: InitNamesTable on:  at path: .programs[3].init_code[0] saving at: .
+Tue Jan 27 20:02:11 2015: *** LOG: last_diff_n:  1417  pct:  0.0543662
+Tue Jan 27 20:02:27 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:28 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:30 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:30 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:33 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:34 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:36 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:37 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:39 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:40 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:41 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:42 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:44 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:45 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:46 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:47 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:48 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:49 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:50 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:53 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:02:56 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: Input at path: .data.gp[0][1].data[0] saving at: .data.gp[0][1].data[0]
+Tue Jan 27 20:05:42 2015: *** LOG: SaveUndo of action: Paste/Copy on: UnitNames at path: .data.gp[0][1] saving at: .data.gp[0][1]
+Tue Jan 27 20:07:29 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:08:21 2015: *** LOG: SaveUndo of action: Call Method: InitDynEnums on:  at path: .programs[3].init_code[0] saving at: .
+Tue Jan 27 20:08:21 2015: *** LOG: last_diff_n:  1421  pct:  0.0545196
+Tue Jan 27 20:08:57 2015: *** LOG: SaveUndo of action: Paste/Copy on:  at path: .programs[3].objs saving at: .programs[3]
+Tue Jan 27 20:09:11 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:13 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:16 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:19 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:22 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:26 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:28 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:33 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:35 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:42 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:44 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:47 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:09:50 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L2 at path: .programs[3].objs[0].data[1] saving at: .programs[3].objs[0].data[1]
+Tue Jan 27 20:10:46 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:15:22 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:24 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:28 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:34 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:37 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:40 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:43 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:44 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:46 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:49 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:52 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:56 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:15:59 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:16:03 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:16:07 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:16:10 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:16:13 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:16:14 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:16:16 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L3 at path: .programs[3].objs[0].data[2] saving at: .programs[3].objs[0].data[2]
+Tue Jan 27 20:16:25 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:27 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:29 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:30 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:34 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:44 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:47 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:49 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:52 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:54 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:16:59 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:17:08 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:17:11 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:17:15 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:17:16 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:17:18 2015: *** LOG: SaveUndo of action: DataCol Matrix Cell Edit on: L4 at path: .programs[3].objs[0].data[3] saving at: .programs[3].objs[0].data[3]
+Tue Jan 27 20:17:23 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:17:25 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:17:25 2015: *** LOG: last_diff_n:  2049  pct:  0.0786142
+Tue Jan 27 20:17:26 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:17:26 2015: *** LOG: last_diff_n:  2137  pct:  0.0819905
+Tue Jan 27 20:20:16 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:20:37 2015: *** LOG: SaveUndo of action: Edit on: Stat3_copy at path: .programs[3] saving at: .programs[3]
+Tue Jan 27 20:21:15 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs.gp[0][2].prog_code[3] saving at: .programs.gp[0][2].prog_code[3]
+Tue Jan 27 20:21:20 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:21:20 2015: *** LOG: last_diff_n:  2075  pct:  0.0796117
+Tue Jan 27 20:21:22 2015: csssyntax error, unexpected ';'
+ line: 000094
+  int input_unit;  input_unit = ;
+                                ^
+Tue Jan 27 20:21:26 2015: Cancelling remaining error messages in this batch
+Tue Jan 27 20:21:26 2015: csssyntax error, unexpected ';'
+ line: 000095
+  int output_unit;  output_unit = ;
+                                  ^
+Tue Jan 27 20:21:26 2015: csssyntax error, unexpected ';'
+Stat4 line: 000094
+  int input_unit;  input_unit = ;
+                                ^
+Tue Jan 27 20:21:26 2015: csssyntax error, unexpected ';'
+Stat4 line: 000095
+  int output_unit;  output_unit = ;
+                                  ^
+Tue Jan 27 20:21:26 2015: ***CHECK ERROR: Config Error in Program Stat4: ResetDataRows ResetDataRows:  table = ? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[1]
+ data_var is NULL
+Tue Jan 27 20:21:26 2015: ***CHECK ERROR: Config Error in Program Stat4: AddNewDataRow Add New Row:  table = ? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[3]
+ data_var is NULL
+Tue Jan 27 20:21:26 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_1 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:21:26 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_2 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:21:26 2015: ***CHECK ERROR: Config Error in Program Stat4: DoneWritingDataRow DoneWritingDataRow:  table = ? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[5]
+ data_var is NULL
+Tue Jan 27 20:21:38 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[1] saving at: .programs[3].prog_code[1]
+Tue Jan 27 20:21:43 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:21:43 2015: csssyntax error, unexpected ';'
+Stat4 line: 000094
+  int input_unit;  input_unit = ;
+                                ^
+Tue Jan 27 20:21:43 2015: *** LOG: last_diff_n:  2145  pct:  0.0822974
+Tue Jan 27 20:21:47 2015: Cancelling remaining error messages in this batch
+Tue Jan 27 20:21:47 2015: csssyntax error, unexpected ';'
+Stat4 line: 000095
+  int output_unit;  output_unit = ;
+                                  ^
+Tue Jan 27 20:21:47 2015: ***CHECK ERROR: Config Error in Program Stat4: AddNewDataRow Add New Row:  table = ? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[3]
+ data_var is NULL
+Tue Jan 27 20:21:47 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_1 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:21:47 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_2 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:21:47 2015: ***CHECK ERROR: Config Error in Program Stat4: DoneWritingDataRow DoneWritingDataRow:  table = ? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[5]
+ data_var is NULL
+Tue Jan 27 20:22:14 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:22:14 2015: csssyntax error, unexpected ';'
+Stat4 line: 000094
+  int input_unit;  input_unit = ;
+                                ^
+Tue Jan 27 20:22:14 2015: *** LOG: last_diff_n:  2145  pct:  0.0822974
+Tue Jan 27 20:22:27 2015: Cancelling remaining error messages in this batch
+Tue Jan 27 20:22:27 2015: csssyntax error, unexpected ';'
+Stat4 line: 000095
+  int output_unit;  output_unit = ;
+                                  ^
+Tue Jan 27 20:22:27 2015: ***CHECK ERROR: Config Error in Program Stat4: AddNewDataRow Add New Row:  table = ? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[3]
+ data_var is NULL
+Tue Jan 27 20:22:27 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_1 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:22:27 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_2 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:22:27 2015: ***CHECK ERROR: Config Error in Program Stat4: DoneWritingDataRow DoneWritingDataRow:  table = ? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[5]
+ data_var is NULL
+Tue Jan 27 20:22:30 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:22:42 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[3].loop_code[1].loop_code[3] saving at: .programs[3].prog_code[3].loop_code[1].loop_code[3]
+Tue Jan 27 20:22:47 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[3].loop_code[1].loop_code[5] saving at: .programs[3].prog_code[3].loop_code[1].loop_code[5]
+Tue Jan 27 20:22:48 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:22:49 2015: csssyntax error, unexpected ';'
+Stat4 line: 000094
+  int input_unit;  input_unit = ;
+                                ^
+Tue Jan 27 20:22:49 2015: *** LOG: last_diff_n:  2145  pct:  0.0822974
+Tue Jan 27 20:22:53 2015: csssyntax error, unexpected ';'
+Stat4 line: 000095
+  int output_unit;  output_unit = ;
+                                  ^
+Tue Jan 27 20:22:55 2015: Cancelling remaining error messages in this batch
+Tue Jan 27 20:22:55 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_1 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:22:55 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_2 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:23:13 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[3].loop_code[1].loop_code[4] saving at: .programs[3].prog_code[3].loop_code[1].loop_code[4]
+Tue Jan 27 20:23:18 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[3].loop_code[1].loop_code[4] saving at: .programs[3].prog_code[3].loop_code[1].loop_code[4]
+Tue Jan 27 20:23:24 2015: *** LOG: SaveUndo of action: Delete on:  at path: .programs[3].prog_code[3].loop_code[1].loop_code[4] saving at: .programs[3]
+Tue Jan 27 20:23:31 2015: *** LOG: SaveUndo of action: Paste/Copy on: loop_code at path: .programs[3].prog_code[3].loop_code[1].loop_code saving at: .programs[3]
+Tue Jan 27 20:23:35 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[3].loop_code[1].loop_code[4] saving at: .programs[3].prog_code[3].loop_code[1].loop_code[4]
+Tue Jan 27 20:23:38 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[3].loop_code[1].loop_code[4] saving at: .programs[3].prog_code[3].loop_code[1].loop_code[4]
+Tue Jan 27 20:23:39 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:23:39 2015: csssyntax error, unexpected ';'
+Stat4 line: 000094
+  int input_unit;  input_unit = ;
+                                ^
+Tue Jan 27 20:23:39 2015: *** LOG: last_diff_n:  2144  pct:  0.0822591
+Tue Jan 27 20:23:46 2015: Cancelling remaining error messages in this batch
+Tue Jan 27 20:23:46 2015: csssyntax error, unexpected ';'
+Stat4 line: 000095
+  int output_unit;  output_unit = ;
+                                  ^
+Tue Jan 27 20:23:46 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_1 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:23:46 2015: ***CHECK ERROR: Config Error in Program Stat4: SetUnitsVar set units var: unit_1=input_unit unit_2=output_unit unit_3=? unit_4=? 
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3].loop_code[1].loop_code[4]
+ unit_2 does not have enum_type set -- must be set to one associated with layer unit names!
+Tue Jan 27 20:24:13 2015: *** LOG: SaveUndo of action: Edit on: input_unit at path: .programs[3].prog_code[0].local_vars[0] saving at: .programs[3].prog_code[0].local_vars[0]
+Tue Jan 27 20:24:13 2015: ***ERROR: Hard-coded (C++) enum's are not supported for local variables -- please use an int or String variable instead. 
+
+Path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[0].local_vars["input_unit"]
+
+From: ProgVar input_unit = (NULL hard enum type)::UpdateAfterEdit()
+Tue Jan 27 20:24:15 2015: ***ERROR: Error in: ProgVar input_unit = (NULL hard enum type)::UpdateAfterEdit() (path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[0].local_vars["input_unit"])
+ Hard-coded (C++) enum's are not supported for local variables -- please use an int or String variable instead.
+emergent 
+
+Tue Jan 27 20:24:17 2015: *** LOG: SaveUndo of action: Edit on: input_unit at path: .programs[3].prog_code[0].local_vars[0] saving at: .programs[3].prog_code[0].local_vars[0]
+Tue Jan 27 20:24:21 2015: *** LOG: SaveUndo of action: Edit on: input_unit at path: .programs[3].prog_code[0].local_vars[0] saving at: .programs[3].prog_code[0].local_vars[0]
+Tue Jan 27 20:24:24 2015: *** LOG: SaveUndo of action: Edit on: output_unit at path: .programs[3].prog_code[0].local_vars[1] saving at: .programs[3].prog_code[0].local_vars[1]
+Tue Jan 27 20:24:26 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:24:26 2015: *** LOG: last_diff_n:  2144  pct:  0.0822591
+Tue Jan 27 20:24:28 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:24:28 2015: *** LOG: last_diff_n:  2144  pct:  0.0822591
+Tue Jan 27 20:24:31 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:24:32 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 20:24:32 2015: *** LOG: last_diff_n:  2144  pct:  0.0822591
+Tue Jan 27 20:24:33 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 20:24:33 2015: *** LOG: last_diff_n:  2144  pct:  0.0822591
+Tue Jan 27 20:24:35 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:24:35 2015: *** LOG: last_diff_n:  2140  pct:  0.0821056
+Tue Jan 27 20:24:37 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:24:37 2015: *** LOG: last_diff_n:  2144  pct:  0.0822591
+Tue Jan 27 20:24:53 2015: *** LOG: SaveUndo of action: Call Method: Stop on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:24:53 2015: *** LOG: last_diff_n:  2101  pct:  0.0806093
+Tue Jan 27 20:25:05 2015: *** LOG: SaveUndo of action: Edit on: Hidden at path: .networks[0].layers[1] saving at: .networks[0].layers[1]
+Tue Jan 27 20:25:08 2015: *** LOG: SaveUndo of action: Call Method: Build on: Network_1 at path: .networks[0] saving at: .
+Tue Jan 27 20:25:08 2015: *** LOG: last_diff_n:  1345  pct:  0.0516037
+Tue Jan 27 20:25:18 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:18 2015: *** LOG: last_diff_n:  2103  pct:  0.080686
+Tue Jan 27 20:25:19 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:20 2015: *** LOG: last_diff_n:  2152  pct:  0.082566
+Tue Jan 27 20:25:28 2015: *** LOG: SaveUndo of action: Call Method: Stop on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:28 2015: *** LOG: last_diff_n:  2134  pct:  0.0818754
+Tue Jan 27 20:25:30 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:30 2015: *** LOG: last_diff_n:  2134  pct:  0.0818754
+Tue Jan 27 20:25:31 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:31 2015: *** LOG: last_diff_n:  2134  pct:  0.0818754
+Tue Jan 27 20:25:32 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:32 2015: *** LOG: last_diff_n:  2132  pct:  0.0817987
+Tue Jan 27 20:25:32 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:32 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:33 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:33 2015: *** LOG: last_diff_n:  2129  pct:  0.0816835
+Tue Jan 27 20:25:33 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:33 2015: *** LOG: last_diff_n:  2133  pct:  0.081837
+Tue Jan 27 20:25:34 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:34 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:35 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:35 2015: *** LOG: last_diff_n:  2133  pct:  0.081837
+Tue Jan 27 20:25:35 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:35 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:36 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:36 2015: *** LOG: last_diff_n:  2133  pct:  0.081837
+Tue Jan 27 20:25:37 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:37 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:39 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:39 2015: *** LOG: last_diff_n:  2133  pct:  0.081837
+Tue Jan 27 20:25:40 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:40 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:41 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:41 2015: *** LOG: last_diff_n:  2133  pct:  0.081837
+Tue Jan 27 20:25:44 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:44 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:47 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:47 2015: *** LOG: last_diff_n:  2133  pct:  0.081837
+Tue Jan 27 20:25:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:49 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:50 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:50 2015: *** LOG: last_diff_n:  2133  pct:  0.081837
+Tue Jan 27 20:25:51 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:51 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:52 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:52 2015: *** LOG: last_diff_n:  2133  pct:  0.081837
+Tue Jan 27 20:25:53 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:53 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:53 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:53 2015: *** LOG: last_diff_n:  2133  pct:  0.081837
+Tue Jan 27 20:25:54 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:54 2015: *** LOG: last_diff_n:  2131  pct:  0.0817603
+Tue Jan 27 20:25:55 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:55 2015: *** LOG: last_diff_n:  2130  pct:  0.0817219
+Tue Jan 27 20:25:56 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:56 2015: *** LOG: last_diff_n:  2128  pct:  0.0816452
+Tue Jan 27 20:25:57 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:57 2015: *** LOG: last_diff_n:  2132  pct:  0.0817987
+Tue Jan 27 20:25:57 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:57 2015: *** LOG: last_diff_n:  2130  pct:  0.0817219
+Tue Jan 27 20:25:58 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:58 2015: *** LOG: last_diff_n:  2132  pct:  0.0817987
+Tue Jan 27 20:25:59 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:25:59 2015: *** LOG: last_diff_n:  2130  pct:  0.0817219
+Tue Jan 27 20:26:00 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:26:00 2015: *** LOG: last_diff_n:  2132  pct:  0.0817987
+Tue Jan 27 20:26:01 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:26:01 2015: *** LOG: last_diff_n:  2130  pct:  0.0817219
+Tue Jan 27 20:26:01 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:26:02 2015: *** LOG: last_diff_n:  2132  pct:  0.0817987
+Tue Jan 27 20:26:02 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:26:02 2015: *** LOG: last_diff_n:  2130  pct:  0.0817219
+Tue Jan 27 20:26:04 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:26:04 2015: *** LOG: last_diff_n:  2132  pct:  0.0817987
+Tue Jan 27 20:26:05 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:26:05 2015: *** LOG: last_diff_n:  2130  pct:  0.0817219
+Tue Jan 27 20:26:06 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:26:06 2015: *** LOG: last_diff_n:  2132  pct:  0.0817987
+Tue Jan 27 20:26:09 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:26:09 2015: *** LOG: last_diff_n:  2130  pct:  0.0817219
+Tue Jan 27 20:26:33 2015: *** LOG: SaveUndo of action: Call Method: NewGraphView on: TrialOutputData at path: .data.gp[1][0] saving at: .
+Tue Jan 27 20:26:33 2015: *** LOG: last_diff_n:  2076  pct:  0.0796501
+Tue Jan 27 20:26:35 2015: css Error: Null pointer for conversion to: T3Panel from: T3Panel     
+emergent 
+
+Tue Jan 27 20:26:36 2015: ***WARNING: GraphTableView -- X axis is not on -- perhaps no valid col_name found for x_axis -- switching to row_num!
+Tue Jan 27 20:26:36 2015: *** DEBUG: init fm user data: minus_cycles on: true
+Tue Jan 27 20:27:03 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:33:58 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:34:44 2015: *** LOG: SaveUndo of action: Edit on: HiddenLayer at path: .networks[0].specs[0] saving at: .networks[0].specs[0]
+Tue Jan 27 20:34:49 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 20:34:49 2015: *** LOG: last_diff_n:  3017  pct:  0.115754
+Tue Jan 27 20:34:50 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 20:34:50 2015: *** LOG: last_diff_n:  3077  pct:  0.118056
+Tue Jan 27 20:34:54 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:34:54 2015: *** LOG: last_diff_n:  3073  pct:  0.117902
+Tue Jan 27 20:35:10 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:35:10 2015: *** LOG: last_diff_n:  3091  pct:  0.118593
+Tue Jan 27 20:35:11 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:35:11 2015: *** LOG: last_diff_n:  3091  pct:  0.118593
+Tue Jan 27 20:35:27 2015: *** DEBUG: obj: NetView Network_1_View::doing deferred refresh:() (path: .projects["StatLearn_3_bilingual2"].viewers["Browser2"].frames["T3Frames"].panels["Network_1"].root_view.children["Network_1_View"])
+ 1  on:  Network_1
+Tue Jan 27 20:35:35 2015: *** LOG: SaveUndo of action: Layer Move on: Network_1 at path: .networks[0] saving at: .networks[0]
+Tue Jan 27 20:36:08 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:36:08 2015: *** LOG: last_diff_n:  3021  pct:  0.115907
+Tue Jan 27 20:36:11 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:36:11 2015: *** LOG: last_diff_n:  3091  pct:  0.118593
+Tue Jan 27 20:36:44 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:36:44 2015: *** LOG: last_diff_n:  3021  pct:  0.115907
+Tue Jan 27 20:36:45 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:36:45 2015: *** LOG: last_diff_n:  3021  pct:  0.115907
+Tue Jan 27 20:36:46 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:36:46 2015: *** LOG: last_diff_n:  3021  pct:  0.115907
+Tue Jan 27 20:36:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:36:49 2015: *** LOG: last_diff_n:  3019  pct:  0.11583
+Tue Jan 27 20:36:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:36:50 2015: *** LOG: last_diff_n:  3019  pct:  0.11583
+Tue Jan 27 20:36:51 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:36:51 2015: *** LOG: last_diff_n:  3019  pct:  0.11583
+Tue Jan 27 20:36:52 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:36:54 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:36:54 2015: *** LOG: last_diff_n:  3089  pct:  0.118516
+Tue Jan 27 20:37:08 2015: *** LOG: SaveUndo of action: Call Method: Stop on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:08 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:10 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:10 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:11 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:11 2015: *** LOG: last_diff_n:  3061  pct:  0.117442
+Tue Jan 27 20:37:12 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:12 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:12 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:12 2015: *** LOG: last_diff_n:  3061  pct:  0.117442
+Tue Jan 27 20:37:13 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:13 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:13 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:14 2015: *** LOG: last_diff_n:  3061  pct:  0.117442
+Tue Jan 27 20:37:14 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:14 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:15 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:15 2015: *** LOG: last_diff_n:  3061  pct:  0.117442
+Tue Jan 27 20:37:15 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:15 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:16 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:16 2015: *** LOG: last_diff_n:  3061  pct:  0.117442
+Tue Jan 27 20:37:17 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:17 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:17 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:17 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:18 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:18 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:19 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:19 2015: *** LOG: last_diff_n:  3060  pct:  0.117403
+Tue Jan 27 20:37:19 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:19 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:20 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:20 2015: *** LOG: last_diff_n:  3060  pct:  0.117403
+Tue Jan 27 20:37:21 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:21 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:21 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:21 2015: *** LOG: last_diff_n:  3060  pct:  0.117403
+Tue Jan 27 20:37:22 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:22 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:23 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:23 2015: *** LOG: last_diff_n:  3060  pct:  0.117403
+Tue Jan 27 20:37:23 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:23 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:24 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:24 2015: *** LOG: last_diff_n:  3060  pct:  0.117403
+Tue Jan 27 20:37:25 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:25 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:25 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:25 2015: *** LOG: last_diff_n:  3060  pct:  0.117403
+Tue Jan 27 20:37:26 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:26 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:26 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:26 2015: *** LOG: last_diff_n:  3060  pct:  0.117403
+Tue Jan 27 20:37:27 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:27 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:28 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:28 2015: *** LOG: last_diff_n:  3060  pct:  0.117403
+Tue Jan 27 20:37:28 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:28 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:30 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:30 2015: *** LOG: last_diff_n:  3060  pct:  0.117403
+Tue Jan 27 20:37:31 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:31 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:33 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:33 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:34 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:34 2015: *** LOG: last_diff_n:  3055  pct:  0.117211
+Tue Jan 27 20:37:34 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:35 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:35 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:35 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:36 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:36 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:36 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:36 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:37 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:37 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:38 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:38 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:39 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:39 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:39 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:40 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:40 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:40 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:41 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:41 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:41 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:41 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:41 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:41 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:41 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:41 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:42 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:42 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:42 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:42 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:43 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:43 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:43 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:43 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:37:44 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:45 2015: *** LOG: last_diff_n:  3057  pct:  0.117288
+Tue Jan 27 20:37:45 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:45 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:46 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:46 2015: *** LOG: last_diff_n:  3054  pct:  0.117173
+Tue Jan 27 20:37:46 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:47 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:47 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:47 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:47 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:47 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:47 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:47 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:48 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:48 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:49 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:49 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:49 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:49 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:50 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:50 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:50 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:50 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:51 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:51 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:51 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:51 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:51 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:51 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:51 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:51 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:52 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:52 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:53 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:53 2015: *** LOG: last_diff_n:  3058  pct:  0.117327
+Tue Jan 27 20:37:53 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:53 2015: *** LOG: last_diff_n:  3056  pct:  0.11725
+Tue Jan 27 20:37:54 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:37:54 2015: *** LOG: last_diff_n:  3055  pct:  0.117211
+Tue Jan 27 20:38:20 2015: *** LOG: SaveUndo of action: Edit on: HiddenLayer at path: .networks[0].specs[0] saving at: .networks[0].specs[0]
+Tue Jan 27 20:38:22 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:22 2015: *** LOG: last_diff_n:  3053  pct:  0.117135
+Tue Jan 27 20:38:23 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:23 2015: *** LOG: last_diff_n:  3091  pct:  0.118593
+Tue Jan 27 20:38:35 2015: *** LOG: SaveUndo of action: Call Method: Stop on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:35 2015: *** LOG: last_diff_n:  3064  pct:  0.117557
+Tue Jan 27 20:38:37 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:37 2015: *** LOG: last_diff_n:  3064  pct:  0.117557
+Tue Jan 27 20:38:38 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:38 2015: *** LOG: last_diff_n:  3064  pct:  0.117557
+Tue Jan 27 20:38:39 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:39 2015: *** LOG: last_diff_n:  3064  pct:  0.117557
+Tue Jan 27 20:38:41 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:41 2015: *** LOG: last_diff_n:  3064  pct:  0.117557
+Tue Jan 27 20:38:42 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:42 2015: *** LOG: last_diff_n:  3062  pct:  0.11748
+Tue Jan 27 20:38:43 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:43 2015: *** LOG: last_diff_n:  3064  pct:  0.117557
+Tue Jan 27 20:38:44 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:44 2015: *** LOG: last_diff_n:  3062  pct:  0.11748
+Tue Jan 27 20:38:45 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:45 2015: *** LOG: last_diff_n:  3064  pct:  0.117557
+Tue Jan 27 20:38:46 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:46 2015: *** LOG: last_diff_n:  3062  pct:  0.11748
+Tue Jan 27 20:38:47 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:47 2015: *** LOG: last_diff_n:  3061  pct:  0.117442
+Tue Jan 27 20:38:48 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:48 2015: *** LOG: last_diff_n:  3059  pct:  0.117365
+Tue Jan 27 20:38:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:49 2015: *** LOG: last_diff_n:  3063  pct:  0.117518
+Tue Jan 27 20:38:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:49 2015: *** LOG: last_diff_n:  3061  pct:  0.117442
+Tue Jan 27 20:38:52 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:52 2015: *** LOG: last_diff_n:  3063  pct:  0.117518
+Tue Jan 27 20:38:52 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:38:53 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:53 2015: *** LOG: last_diff_n:  3061  pct:  0.117442
+Tue Jan 27 20:38:55 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:38:55 2015: *** LOG: last_diff_n:  3063  pct:  0.117518
+Tue Jan 27 20:41:13 2015: *** LOG: SaveUndo of action: Edit on: HiddenLayer at path: .networks[0].specs[0] saving at: .networks[0].specs[0]
+Tue Jan 27 20:41:14 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:42:29 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:42:30 2015: *** LOG: last_diff_n:  3061  pct:  0.117442
+Tue Jan 27 20:42:32 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:42:32 2015: *** LOG: last_diff_n:  3091  pct:  0.118593
+Tue Jan 27 20:42:40 2015: *** LOG: SaveUndo of action: Call Method: Stop on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:42:40 2015: *** LOG: last_diff_n:  3074  pct:  0.11794
+Tue Jan 27 20:43:04 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:04 2015: *** LOG: last_diff_n:  3074  pct:  0.11794
+Tue Jan 27 20:43:05 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:05 2015: *** LOG: last_diff_n:  3074  pct:  0.11794
+Tue Jan 27 20:43:05 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:05 2015: *** LOG: last_diff_n:  3072  pct:  0.117864
+Tue Jan 27 20:43:07 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:07 2015: *** LOG: last_diff_n:  3074  pct:  0.11794
+Tue Jan 27 20:43:08 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:08 2015: *** LOG: last_diff_n:  3072  pct:  0.117864
+Tue Jan 27 20:43:09 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:09 2015: *** LOG: last_diff_n:  3074  pct:  0.11794
+Tue Jan 27 20:43:10 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:10 2015: *** LOG: last_diff_n:  3072  pct:  0.117864
+Tue Jan 27 20:43:11 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:11 2015: *** LOG: last_diff_n:  3074  pct:  0.11794
+Tue Jan 27 20:43:12 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:12 2015: *** LOG: last_diff_n:  3072  pct:  0.117864
+Tue Jan 27 20:43:13 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:13 2015: *** LOG: last_diff_n:  3074  pct:  0.11794
+Tue Jan 27 20:43:14 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:14 2015: *** LOG: last_diff_n:  3072  pct:  0.117864
+Tue Jan 27 20:43:14 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:43:14 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:15 2015: *** LOG: last_diff_n:  3074  pct:  0.11794
+Tue Jan 27 20:43:16 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:43:16 2015: *** LOG: last_diff_n:  3072  pct:  0.117864
+Tue Jan 27 20:43:38 2015: *** DEBUG: obj: NetView Network_1_View::doing deferred refresh:() (path: .projects["StatLearn_3_bilingual2"].viewers["Browser2"].frames["T3Frames"].panels["Network_1"].root_view.children["Network_1_View"])
+ -1  on:  Network_1
+Tue Jan 27 20:44:00 2015: *** LOG: SaveUndo of action: Paste/Copy on: children at path: .viewers[0].frames[2].panels[0].root_view.children saving at: .
+Tue Jan 27 20:44:00 2015: ***WARNING: CopyFromSameType: copying from self -- skipping type: float
+Tue Jan 27 20:44:00 2015: *** LOG: last_diff_n:  3019  pct:  0.11583
+Tue Jan 27 20:44:05 2015: *** LOG: SaveUndo of action: Delete on: EpochOutputData_Graph at path: .viewers[0].frames[2].panels[0].root_view.children[1] saving at: .
+Tue Jan 27 20:44:05 2015: *** LOG: last_diff_n:  3923  pct:  0.150514
+Tue Jan 27 20:44:10 2015: *** DEBUG: obj: GridColView Name::doing deferred refresh:() (path: .projects["StatLearn_3_bilingual2"].viewers["Browser2"].frames["T3Frames"].panels["StdInputData_4"].root_view.children["StdInputData_Grid"].children["Name"])
+ -1  on:  Name
+Tue Jan 27 20:44:10 2015: *** DEBUG: obj: GridColView Input::doing deferred refresh:() (path: .projects["StatLearn_3_bilingual2"].viewers["Browser2"].frames["T3Frames"].panels["StdInputData_4"].root_view.children["StdInputData_Grid"].children["Input"])
+ -1  on:  Input
+Tue Jan 27 20:44:10 2015: *** DEBUG: obj: GridColView Input::doing deferred refresh:() (path: .projects["StatLearn_3_bilingual2"].viewers["Browser2"].frames["T3Frames"].panels["StdInputData_4"].root_view.children["UnitNames_Grid"].children["Input"])
+ -1  on:  Input
+Tue Jan 27 20:44:45 2015: *** LOG: SaveUndo of action: InsertDefaultEl on:  at path: .programs[3].prog_code saving at: .programs[3]
+Tue Jan 27 20:44:51 2015: *** LOG: SaveUndo of action: ProgCodeCvt on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:44:52 2015: *** LOG: SaveUndo of action: Delete on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:45:08 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:45:08 2015: *** LOG: SaveUndo of action: InsertDefaultEl on:  at path: .programs[3].prog_code saving at: .programs[3]
+Tue Jan 27 20:45:33 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:45:33 2015: *** LOG: last_diff_n:  3206  pct:  0.123005
+Tue Jan 27 20:45:33 2015: ***CHECK ERROR: Config Error in Program Stat4: ProgCode .projects["StatLearn_3_bilingual"].programs["Stat4"].objs["Languages"][0][:,:,:]
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[2]
+ uncompiled program code (ProgCode) element still present -- fix it or remove it -- code is: .projects["StatLearn_3_bilingual"].programs["Stat4"].objs["Languages"][0][:,:,:]
+Tue Jan 27 20:45:33 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:46:01 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:46:01 2015: *** LOG: last_diff_n:  3206  pct:  0.123005
+Tue Jan 27 20:46:01 2015: ***CHECK ERROR: Config Error in Program Stat4: ProgCode .projects["StatLearn_3_bilingual"]
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[2]
+ uncompiled program code (ProgCode) element still present -- fix it or remove it -- code is: .projects["StatLearn_3_bilingual"]
+Tue Jan 27 20:46:04 2015: *** LOG: SaveUndo of action: Delete on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:46:14 2015: *** LOG: SaveUndo of action: Paste/Copy on:  at path: .programs[3].prog_code saving at: .programs[3]
+Tue Jan 27 20:46:22 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[2] saving at: .programs[3].prog_code[2]
+Tue Jan 27 20:46:25 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:46:25 2015: *** LOG: last_diff_n:  3212  pct:  0.123235
+Tue Jan 27 20:46:26 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:46:26 2015: *** LOG: last_diff_n:  3212  pct:  0.123235
+Tue Jan 27 20:46:47 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:46:47 2015: *** LOG: SaveUndo of action: Delete on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:46:53 2015: *** LOG: SaveUndo of action: Paste/Copy on:  at path: .programs[3].prog_code saving at: .programs[3]
+Tue Jan 27 20:47:10 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[2] saving at: .programs[3].prog_code[2]
+Tue Jan 27 20:47:12 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:47:20 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:47:22 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:47:22 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:47:22 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:47:22 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:47:48 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:47:48 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:47:49 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:47:49 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:47:50 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:47:50 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:48:05 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:48:06 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:48:07 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:48:07 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:48:07 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:48:27 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:48:28 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:48:28 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:48:28 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:48:28 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:49:52 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:49:53 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:50:15 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:50:26 2015: *** LOG: SaveUndo of action: Edit on:  at path: .programs[3].prog_code[2] saving at: .programs[3].prog_code[2]
+Tue Jan 27 20:50:36 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:50:40 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[4].loop_code[1].loop_code[0] saving at: .programs[3]
+Tue Jan 27 20:50:45 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 20:51:11 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[4].loop_code[1].loop_code[0] saving at: .programs[3]
+Tue Jan 27 20:51:13 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:51:13 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:51:14 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:51:14 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:51:26 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:51:27 2015: *** LOG: last_diff_n:  3210  pct:  0.123158
+Tue Jan 27 20:51:29 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:51:30 2015: *** LOG: last_diff_n:  3276  pct:  0.125691
+Tue Jan 27 20:51:48 2015: *** LOG: SaveUndo of action: Call Method: Stop on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:51:48 2015: *** LOG: last_diff_n:  3242  pct:  0.124386
+Tue Jan 27 20:51:54 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:52:09 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[4].loop_code[1].loop_code[0] saving at: .programs[3]
+Tue Jan 27 20:52:23 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[4].loop_code[1].loop_code[1].true_code[0] saving at: .programs[3]
+Tue Jan 27 20:52:34 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[4].loop_code[1].loop_code[2].else_code[0] saving at: .programs[3]
+Tue Jan 27 20:52:43 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:52:43 2015: *** LOG: last_diff_n:  3242  pct:  0.124386
+Tue Jan 27 20:52:44 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:52:44 2015: *** LOG: last_diff_n:  3242  pct:  0.124386
+Tue Jan 27 20:52:48 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:52:49 2015: *** LOG: last_diff_n:  3242  pct:  0.124386
+Tue Jan 27 20:52:50 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 20:52:50 2015: *** LOG: last_diff_n:  3278  pct:  0.125767
+Tue Jan 27 20:54:36 2015: *** LOG: SaveUndo of action: InsertDefaultEl on: local_vars at path: .programs[3].prog_code[0].local_vars saving at: .programs[3]
+Tue Jan 27 20:54:37 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 20:55:11 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[4].loop_code[1].loop_code[0] saving at: .programs[3]
+Tue Jan 27 20:55:14 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[4].loop_code[1].loop_code[1].true_code[0] saving at: .programs[3]
+Tue Jan 27 20:55:17 2015: *** LOG: SaveUndo of action: BrowserEditSet on:  at path: .programs[3].prog_code[4].loop_code[1].loop_code[2].else_code[0] saving at: .programs[3]
+Tue Jan 27 20:55:21 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:55:21 2015: *** LOG: last_diff_n:  3221  pct:  0.12358
+Tue Jan 27 20:55:22 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 20:55:22 2015: *** LOG: last_diff_n:  3221  pct:  0.12358
+Tue Jan 27 20:59:22 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 21:03:13 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 21:03:19 2015: *** LOG: SaveUndo of action: BrowserEditSet on: max at path: .programs[3].prog_code[3].meth_args[1] saving at: .programs[3]
+Tue Jan 27 21:03:47 2015: *** LOG: SaveUndo of action: InsertDefaultEl on: local_vars at path: .programs[3].prog_code[0].local_vars saving at: .programs[3]
+Tue Jan 27 21:04:27 2015: *** LOG: SaveUndo of action: Delete on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 21:04:31 2015: *** LOG: SaveUndo of action: InsertDefaultEl on:  at path: .programs[3].prog_code saving at: .programs[3]
+Tue Jan 27 21:04:41 2015: *** LOG: SaveUndo of action: ProgCodeCvt on:  at path: .programs[3].prog_code[2] saving at: .programs[3]
+Tue Jan 27 21:04:50 2015: *** LOG: SaveUndo of action: Move on:  at path: .programs[3].prog_code[3] saving at: .programs[3]
+Tue Jan 27 21:04:56 2015: *** LOG: SaveUndo of action: InsertDefaultEl on:  at path: .programs[3].prog_code saving at: .programs[3]
+Tue Jan 27 21:05:03 2015: *** LOG: SaveUndo of action: ProgCodeCvt on:  at path: .programs[3].prog_code[3] saving at: .programs[3]
+Tue Jan 27 21:05:55 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 21:06:00 2015: *** LOG: SaveUndo of action: Call Method: New_gui on: layers at path: .networks[0].layers saving at: .
+Tue Jan 27 21:06:00 2015: *** LOG: last_diff_n:  2575  pct:  0.0987953
+Tue Jan 27 21:06:19 2015: *** LOG: SaveUndo of action: Layer Move on: Network_1 at path: .networks[0] saving at: .networks[0]
+Tue Jan 27 21:06:23 2015: *** LOG: SaveUndo of action: Undo on: Network_1 at path: .networks[0] saving at: .networks[0]
+Tue Jan 27 21:06:23 2015: Undoing action: Layer Move on: Network_1 at path: .networks[0]
+Tue Jan 27 21:06:31 2015: *** LOG: SaveUndo of action: Layer Move on: Network_1 at path: .networks[0] saving at: .networks[0]
+Tue Jan 27 21:06:33 2015: *** LOG: SaveUndo of action: Layer Move on: Network_1 at path: .networks[0] saving at: .networks[0]
+Tue Jan 27 21:06:44 2015: *** LOG: SaveUndo of action: Layer Move on: Network_1 at path: .networks[0] saving at: .networks[0]
+Tue Jan 27 21:06:46 2015: *** LOG: SaveUndo of action: Layer Move on: Network_1 at path: .networks[0] saving at: .networks[0]
+Tue Jan 27 21:07:44 2015: *** LOG: SaveUndo of action: Edit on: Voice_Gender at path: .networks[0].layers[3] saving at: .networks[0].layers[3]
+Tue Jan 27 21:08:05 2015: *** LOG: SaveUndo of action: Call Method: Init on: StatWordLearnNew at path: .programs[1] saving at: .
+Tue Jan 27 21:08:05 2015: ***CHECK ERROR: Error in ProgVar in program: StatWordLearnNew var name: unit_names object pointer is NULL
+Tue Jan 27 21:08:05 2015: *** LOG: last_diff_n:  3242  pct:  0.124386
+Tue Jan 27 21:08:05 2015: ***CHECK ERROR: Error in ProgVar in program: StatWordLearnNew var name: unit_names object pointer is NULL
+Tue Jan 27 21:08:11 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 21:08:11 2015: *** LOG: last_diff_n:  3242  pct:  0.124386
+Tue Jan 27 21:08:11 2015: ***CHECK ERROR: Config Error in: LeabraLayer Voice_Gender
+path: .projects["StatLearn_3_bilingual2"].networks["Network_1"].layers["Voice_Gender"]
+ number of units != target -- is: 0 should be: 1
+Tue Jan 27 21:08:11 2015: ***CHECK ERROR: Network: Network_1 Needs the 'Build' command to be run
+Tue Jan 27 21:08:11 2015: ***CHECK ERROR: Config Error in: LeabraLayer Voice_Gender
+path: .projects["StatLearn_3_bilingual2"].networks["Network_1"].layers["Voice_Gender"]
+ number of units != target -- is: 0 should be: 1
+Tue Jan 27 21:08:13 2015: ***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_bilingual2"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: Voice_Gender of type: INPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+
+Tue Jan 27 21:08:17 2015: *** LOG: SaveUndo of action: Call Method: Build on: Network_1 at path: .networks[0] saving at: .
+Tue Jan 27 21:08:17 2015: *** LOG: last_diff_n:  2715  pct:  0.104167
+Tue Jan 27 21:08:21 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 21:08:21 2015: *** LOG: last_diff_n:  3346  pct:  0.128376
+Tue Jan 27 21:08:21 2015: ***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_bilingual2"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: Voice_Gender of type: INPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+
+Tue Jan 27 21:08:22 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 21:08:22 2015: *** LOG: last_diff_n:  3346  pct:  0.128376
+Tue Jan 27 21:08:26 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 21:08:26 2015: *** LOG: last_diff_n:  3404  pct:  0.130602
+Tue Jan 27 21:08:38 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 21:08:38 2015: *** LOG: last_diff_n:  3402  pct:  0.130525
+Tue Jan 27 21:08:39 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 21:08:39 2015: *** LOG: last_diff_n:  3402  pct:  0.130525
+Tue Jan 27 21:08:46 2015: *** LOG: SaveUndo of action: Undo on: StatLearn_3_bilingual2 at path: . saving at: .
+Tue Jan 27 21:08:46 2015: Undoing action: Call Method: Run_Gui on: Stat4 at path: .programs[3]
+Tue Jan 27 21:08:46 2015: *** LOG: last_diff_n:  3402  pct:  0.130525
+Tue Jan 27 21:08:48 2015: Undoing action: Call Method: Init on: Stat4 at path: .programs[3]
+Tue Jan 27 21:08:48 2015: Undoing action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1]
+Tue Jan 27 21:08:49 2015: Undoing action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1]
+Tue Jan 27 21:08:49 2015: Undoing action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1]
+Tue Jan 27 21:08:49 2015: Undoing action: Call Method: Build on: Network_1 at path: .networks[0]
+Tue Jan 27 21:08:50 2015: Undoing action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1]
+Tue Jan 27 21:08:50 2015: load reset size: 1
+Tue Jan 27 21:08:50 2015: Undoing action: Call Method: Init on: StatWordLearnNew at path: .programs[1]
+Tue Jan 27 21:08:51 2015: Undoing action: Edit on: Voice_Gender at path: .networks[0].layers[3]
+Tue Jan 27 21:08:51 2015: Undoing action: Layer Move on: Network_1 at path: .networks[0]
+Tue Jan 27 21:08:51 2015: Undoing action: Layer Move on: Network_1 at path: .networks[0]
+Tue Jan 27 21:08:57 2015: Undoing action: Layer Move on: Network_1 at path: .networks[0]
+Tue Jan 27 21:08:58 2015: Undoing action: Layer Move on: Network_1 at path: .networks[0]
+Tue Jan 27 21:08:58 2015: Undoing action: Call Method: New_gui on: layers at path: .networks[0].layers
+Tue Jan 27 21:08:58 2015: Undoing action: ProgCodeCvt on:  at path: .programs[3].prog_code[3]
+Tue Jan 27 21:08:59 2015: Redoing action: ProgCodeCvt on:  at path: .programs[3].prog_code[3]
+Tue Jan 27 21:09:00 2015: Redoing action: Call Method: New_gui on: layers at path: .networks[0].layers
+Tue Jan 27 21:09:00 2015: Redoing action: Layer Move on: Network_1 at path: .networks[0]
+Tue Jan 27 21:09:07 2015: Undoing action: Layer Move on: Network_1 at path: .networks[0]
+Tue Jan 27 21:09:08 2015: Undoing action: Call Method: New_gui on: layers at path: .networks[0].layers
+Tue Jan 27 21:09:14 2015: Undoing action: ProgCodeCvt on:  at path: .programs[3].prog_code[3]
+Tue Jan 27 21:09:25 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 21:09:25 2015: *** LOG: last_diff_n:  3297  pct:  0.126496
+Tue Jan 27 21:09:25 2015: ***CHECK ERROR: Config Error in Program Stat4: ProgCode if (experiment == 2)
+path: .projects["StatLearn_3_bilingual2"].programs["Stat4"].prog_code[3]
+ uncompiled program code (ProgCode) element still present -- fix it or remove it -- code is: if (experiment == 2)
+Tue Jan 27 21:09:33 2015: *** LOG: SaveUndo of action: ProgCodeCvt on:  at path: .programs[3].prog_code[3] saving at: .programs[3]
+Tue Jan 27 21:09:37 2015: *** LOG: SaveUndo of action: Call Method: Init on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 21:09:37 2015: *** LOG: last_diff_n:  3305  pct:  0.126803
+Tue Jan 27 21:09:37 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.proj
+Tue Jan 27 21:09:37 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: Stat4 at path: .programs[3] saving at: .
+Tue Jan 27 21:09:37 2015: *** LOG: last_diff_n:  3305  pct:  0.126803
+Tue Jan 27 21:10:26 2015: taMisc::SetLogFile -- Setting log file to: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2_autosave.plog

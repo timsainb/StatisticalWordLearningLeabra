@@ -1,0 +1,98 @@
+emergent> 
+QFileInfo::absolutePath: Constructed with empty filename
+Network: Network_1 auto building
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs  line: 000019
+  LayerWriter_0->AutoConfig();
+***ERROR: column number is out of range 13 
+
+Path: .projects["StatLearn_3_with_end_decision"].data.gp["OutputData"]["TrialOutputData"]
+
+From: DataTable TrialOutputData::GetColData()
+
+LeabraTrialMonitor  line: 000029
+  trial_netmon->GetMonVals();
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+***ERROR: Error in: DataTable TrialOutputData::GetColData() (path: .projects["StatLearn_3_with_end_decision"].data.gp["OutputData"]["TrialOutputData"])
+ column number is out of range 13
+LeabraTrialMonitor LeabraTrialMonitor line: 000029
+  trial_netmon->GetMonVals();
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+Null pointer for conversion to: T3Panel from: T3Panel     
+emergent 
+***WARNING: GraphTableView -- X axis is not on -- perhaps no valid col_name found for x_axis -- switching to row_num!
+***WARNING: CopyFromSameType: copying from self -- skipping type: float
+***WARNING: taList_impl::MakeElNameUnique names of items on the list must be unique -- renaming: .projects["StatLearn_3_with_end_decision"].viewers["Browser2"].frames["T3Frames"].panels["Network_1"].root_view.children["TrialOutputData_Graph"]
+   to: TrialOutputData_Graph_2
+***WARNING: GraphTableView -- X axis is not on -- perhaps no valid col_name found for x_axis -- switching to row_num!
+Undoing action: Delete on: TrialOutputData_Graph at path: .viewers[0].frames[2].panels[0].root_view.children[1]
+***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+   getting a new spec of type: LeabraContextLayerSpec
+***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+   set spec pointer to NEW spec I just created, named: LeabraContextLayerSpec_1 of type: LeabraContextLayerSpec
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+   getting a new spec of type: TdLayerSpec
+***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+   set spec pointer to NEW spec I just created, named: TdLayerSpec_1 of type: TdLayerSpec
+***WARNING: TdLayerSpec TdLayerSpec_1::LeabraLayerSpec decay.phase should be 0 or small for for CTLEABRA_X/CAL -- I just set it to 0 for you in spec:() (path: 
+.projects["StatLearn_3_with_end_decision"].networks["Network_1"].specs["TdLayerSpec_1"])
+ TdLayerSpec_1
+LeabraTrain LeabraTrain line: 000063
+  network->CheckConfig(false);
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ requires UnitSpec act_range.max = 2, min = -2, I just set it for you in spec: LeabraUnitSpec_1 (make sure this is appropriate for all layers that use this spec!)
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ requires UnitSpec clamp_range.max = 2, min = -2, I just set it for you in spec: LeabraUnitSpec_1 (make sure this is appropriate for all layers that use this spec!)
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ did not find TDRewInteg layer to get Td from!
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ did not find TDRewInteg layer to get Td from!
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ did not find TDRewInteg layer to get Td from!
+***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ did not find TDRewInteg layer to get Td from!
+Network_1 Weights Initialized
+***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+   getting a new spec of type: DecodeTwoDValLayerSpec
+***WARNING: DecodeTwoDValLayerSpec DecodeTwoDValLayerSpec_1::CheckObjectType() (path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].specs["DecodeTwoDValLayerSpec_1"])
+ incorrect type of obj: LeabraLayer should be at least: TwoDValLeabraLayer
+***ERROR: incorrect type of Spec: .projects[0].networks[0].specs[6]
+of type: DecodeTwoDValLayerSpec should be at least: LeabraLayerSpec in object: .projects[0].networks[0].layers[3]
+   
+
+Path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"].spec
+
+From: LeabraLayerSpec_SPtr EndOfWord.spec::SetSpec()
+***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+   set spec pointer to NEW spec I just created, named: DecodeTwoDValLayerSpec_1 of type: DecodeTwoDValLayerSpec
+Saving recover file(s) and exiting from signal: segmentation violation

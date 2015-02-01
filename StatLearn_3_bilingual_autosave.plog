@@ -1,0 +1,5 @@
+Tue Jan 27 21:10:45 2015: taMisc::SetLogFile -- Log file opened for writing.
+Tue Jan 27 21:10:46 2015: Network: Network_1 auto building
+Tue Jan 27 21:11:14 2015: *** LOG: SaveUndo of action: Call Method: SaveData_Gui on: StdInputData at path: .data.gp[0][0] saving at: .
+Tue Jan 27 21:11:14 2015: *** LOG: Undo: New source added!
+Tue Jan 27 21:11:14 2015: *** LOG: last_diff_n:  0  pct:  0

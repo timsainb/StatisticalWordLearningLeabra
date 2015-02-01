@@ -1,0 +1,11 @@
+Tue Jan 27 19:36:38 2015: taMisc::SetLogFile -- Log file opened for writing.
+Tue Jan 27 19:36:45 2015: Network: Network_1 auto building
+Tue Jan 27 19:44:33 2015: *** LOG: SaveUndo of action: Edit on: Input at path: .networks[0].layers[0] saving at: .networks[0].layers[0]
+Tue Jan 27 19:44:47 2015: *** LOG: SaveUndo of action: Edit on: Output at path: .networks[0].layers[2] saving at: .networks[0].layers[2]
+Tue Jan 27 19:44:53 2015: *** LOG: SaveUndo of action: Call Method: Build on: Network_1 at path: .networks[0] saving at: .
+Tue Jan 27 19:44:53 2015: *** LOG: Undo: New source added!
+Tue Jan 27 19:44:53 2015: *** LOG: last_diff_n:  0  pct:  0
+Tue Jan 27 19:46:49 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual_autosave.proj
+Tue Jan 27 19:46:58 2015: *** LOG: SaveUndo of action: Duplicate on: Stat3 at path: .programs[2] saving at: .
+Tue Jan 27 19:46:58 2015: *** LOG: last_diff_n:  1024  pct:  0.0392879
+Tue Jan 27 19:47:31 2015: taMisc::SetLogFile -- Setting log file to: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_bilingual2.plog

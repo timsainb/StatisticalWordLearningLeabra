@@ -1,0 +1,29 @@
+Tue Jan 27 11:52:49 2015: taMisc::SetLogFile -- Log file opened for writing.
+Tue Jan 27 11:52:53 2015: Network: Network_1 auto building
+Tue Jan 27 11:52:53 2015: ***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"] getting a new spec of type: TdLayerSpec
+Tue Jan 27 11:52:53 2015: ***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"] set spec pointer to NEW spec I just created, named: TdLayerSpec_1 of type: TdLayerSpec
+Tue Jan 27 11:53:01 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:53:01 2015: *** LOG: Undo: New source added!
+Tue Jan 27 11:53:01 2015: *** LOG: last_diff_n:  0  pct:  0
+Tue Jan 27 11:53:01 2015: ***WARNING: TdLayerSpec TdLayerSpec_1::LeabraLayerSpec decay.phase should be 0 or small for for CTLEABRA_X/CAL -- I just set it to 0 for you in spec:() (path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].specs["TdLayerSpec_1"])
+ TdLayerSpec_1
+LeabraTrain  line: 000063
+  network->CheckConfig(false);
+
+Tue Jan 27 11:53:02 2015: ***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ requires UnitSpec act_range.max = 2, min = -2, I just set it for you in spec: LeabraUnitSpec_1 (make sure this is appropriate for all layers that use this spec!)
+Tue Jan 27 11:53:02 2015: ***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ requires UnitSpec clamp_range.max = 2, min = -2, I just set it for you in spec: LeabraUnitSpec_1 (make sure this is appropriate for all layers that use this spec!)
+Tue Jan 27 11:53:02 2015: ***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ did not find TDRewInteg layer to get Td from!
+Tue Jan 27 11:53:02 2015: ***CHECK ERROR: Config Error in: LeabraLayer EndOfWord
+path: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["EndOfWord"]
+ did not find TDRewInteg layer to get Td from!
+Tue Jan 27 11:53:02 2015: ***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs  line: 000019
+  LayerWriter_0->AutoConfig();
+

@@ -1,0 +1,275 @@
+Tue Jan 27 11:53:13 2015: taMisc::SetLogFile -- Log file opened for writing.
+Tue Jan 27 11:53:14 2015: Network: Network_1 auto building
+Tue Jan 27 11:53:54 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:53:54 2015: *** LOG: Undo: New source added!
+Tue Jan 27 11:53:54 2015: *** LOG: last_diff_n:  0  pct:  0
+Tue Jan 27 11:53:55 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:53:55 2015: *** LOG: last_diff_n:  76  pct:  0.00316984
+Tue Jan 27 11:53:55 2015: ***ERROR: data not available for reading from datatable: StdInputData you must perform a ReadItem or ReadFirst/Next on data to select row to read input patterns from (std Epoch program does this in NetDataLoop) 
+
+Path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"]
+
+From: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::ApplyInputData()
+Tue Jan 27 11:54:04 2015: *** LOG: SaveUndo of action: Call Method: Build on: Network_1 at path: .networks[0] saving at: .
+Tue Jan 27 11:54:04 2015: *** LOG: last_diff_n:  920  pct:  0.0383717
+Tue Jan 27 11:54:10 2015: *** LOG: SaveUndo of action: Edit on: EndOfWord at path: .networks[0].layers[3] saving at: .networks[0].layers[3]
+Tue Jan 27 11:54:16 2015: *** LOG: SaveUndo of action: Call Method: Build on: Network_1 at path: .networks[0] saving at: .
+Tue Jan 27 11:54:16 2015: *** LOG: last_diff_n:  920  pct:  0.0383717
+Tue Jan 27 11:54:20 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:20 2015: *** LOG: last_diff_n:  78  pct:  0.00325325
+Tue Jan 27 11:54:21 2015: ***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+
+Tue Jan 27 11:54:21 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:21 2015: *** LOG: last_diff_n:  96  pct:  0.004004
+Tue Jan 27 11:54:26 2015: *** LOG: SaveUndo of action: Call Method: Stop on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:26 2015: *** LOG: last_diff_n:  84  pct:  0.0035035
+Tue Jan 27 11:54:28 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:28 2015: *** LOG: last_diff_n:  84  pct:  0.0035035
+Tue Jan 27 11:54:31 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:31 2015: *** LOG: last_diff_n:  88  pct:  0.00367034
+Tue Jan 27 11:54:34 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:34 2015: *** LOG: last_diff_n:  88  pct:  0.00367034
+Tue Jan 27 11:54:35 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:35 2015: *** LOG: last_diff_n:  88  pct:  0.00367034
+Tue Jan 27 11:54:37 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:37 2015: *** LOG: last_diff_n:  86  pct:  0.00358692
+Tue Jan 27 11:54:40 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:40 2015: *** LOG: last_diff_n:  88  pct:  0.00367034
+Tue Jan 27 11:54:42 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:42 2015: *** LOG: last_diff_n:  86  pct:  0.00358692
+Tue Jan 27 11:54:43 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:43 2015: *** LOG: last_diff_n:  88  pct:  0.00367034
+Tue Jan 27 11:54:44 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:44 2015: *** LOG: last_diff_n:  86  pct:  0.00358692
+Tue Jan 27 11:54:47 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:47 2015: *** LOG: last_diff_n:  88  pct:  0.00367034
+Tue Jan 27 11:54:49 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:54:49 2015: *** LOG: last_diff_n:  86  pct:  0.00358692
+Tue Jan 27 11:55:20 2015: *** LOG: SaveUndo of action: Call Method: NewGraphView on: TrialOutputData at path: .data.gp[1][0] saving at: .
+Tue Jan 27 11:55:20 2015: *** LOG: last_diff_n:  22  pct:  0.000917584
+Tue Jan 27 11:55:23 2015: ***WARNING: GraphTableView -- X axis is not on -- perhaps no valid col_name found for x_axis -- switching to row_num!
+Tue Jan 27 11:55:23 2015: *** DEBUG: init fm user data: minus_cycles on: true
+Tue Jan 27 11:55:57 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_with_end_decision_autosave.proj
+Tue Jan 27 11:56:23 2015: *** LOG: SaveUndo of action: Call Method: BrowseMe on: TrialOutputData_Graph at path: .viewers[0].frames[2].panels[0].root_view.children[2] saving at: .
+Tue Jan 27 11:56:23 2015: *** LOG: last_diff_n:  935  pct:  0.0389973
+Tue Jan 27 11:56:43 2015: *** LOG: SaveUndo of action: Call Method: NewGraphView on: TrialOutputData at path: .data.gp[1][0] saving at: .
+Tue Jan 27 11:56:43 2015: *** LOG: last_diff_n:  935  pct:  0.0389973
+Tue Jan 27 11:56:45 2015: css Error: Null pointer for conversion to: T3Panel from: T3Panel     
+emergent 
+
+Tue Jan 27 11:56:45 2015: ***WARNING: GraphTableView -- X axis is not on -- perhaps no valid col_name found for x_axis -- switching to row_num!
+Tue Jan 27 11:56:45 2015: *** DEBUG: init fm user data: minus_cycles on: true
+Tue Jan 27 11:57:02 2015: *** LOG: SaveUndo of action: Paste/Copy on: children at path: .viewers[0].frames[2].panels[0].root_view.children saving at: .
+Tue Jan 27 11:57:02 2015: ***WARNING: CopyFromSameType: copying from self -- skipping type: float
+Tue Jan 27 11:57:02 2015: *** LOG: last_diff_n:  1959  pct:  0.0817067
+Tue Jan 27 11:57:02 2015: ***WARNING: taList_impl::MakeElNameUnique names of items on the list must be unique -- renaming: .projects["StatLearn_3_with_end_decision"].viewers["Browser2"].frames["T3Frames"].panels["Network_1"].root_view.children["TrialOutputData_Graph"] to: TrialOutputData_Graph_2
+Tue Jan 27 11:57:16 2015: *** LOG: SaveUndo of action: Delete on: EpochOutputData_Graph at path: .viewers[0].frames[2].panels[0].root_view.children[1] saving at: .
+Tue Jan 27 11:57:16 2015: *** LOG: last_diff_n:  2870  pct:  0.119703
+Tue Jan 27 11:57:20 2015: *** LOG: SaveUndo of action: Delete on: TrialOutputData_Graph at path: .viewers[0].frames[2].panels[0].root_view.children[2] saving at: .
+Tue Jan 27 11:57:20 2015: *** LOG: last_diff_n:  2146  pct:  0.0895062
+Tue Jan 27 11:57:39 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:57:39 2015: *** LOG: last_diff_n:  1235  pct:  0.0515098
+Tue Jan 27 11:57:40 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:57:40 2015: *** LOG: last_diff_n:  1235  pct:  0.0515098
+Tue Jan 27 11:57:50 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:57:50 2015: *** LOG: last_diff_n:  1235  pct:  0.0515098
+Tue Jan 27 11:57:51 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:57:51 2015: *** LOG: last_diff_n:  1239  pct:  0.0516767
+Tue Jan 27 11:57:52 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 11:57:52 2015: *** LOG: last_diff_n:  1235  pct:  0.0515098
+Tue Jan 27 11:57:56 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:57:57 2015: *** LOG: last_diff_n:  1235  pct:  0.0515098
+Tue Jan 27 11:57:58 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:57:58 2015: *** LOG: last_diff_n:  1241  pct:  0.0517601
+Tue Jan 27 11:57:58 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:57:58 2015: *** LOG: last_diff_n:  1239  pct:  0.0516767
+Tue Jan 27 11:57:59 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:58:00 2015: *** LOG: last_diff_n:  1241  pct:  0.0517601
+Tue Jan 27 11:58:02 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:58:02 2015: *** LOG: last_diff_n:  1245  pct:  0.0519269
+Tue Jan 27 11:58:03 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:58:03 2015: *** LOG: last_diff_n:  1243  pct:  0.0518435
+Tue Jan 27 11:58:04 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:58:04 2015: *** LOG: last_diff_n:  1241  pct:  0.0517601
+Tue Jan 27 11:58:05 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:58:05 2015: *** LOG: last_diff_n:  1245  pct:  0.0519269
+Tue Jan 27 11:58:05 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:58:05 2015: *** LOG: last_diff_n:  1243  pct:  0.0518435
+Tue Jan 27 11:58:06 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:58:06 2015: *** LOG: last_diff_n:  1241  pct:  0.0517601
+Tue Jan 27 11:58:07 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrial at path: .programs.gp[0][3] saving at: .
+Tue Jan 27 11:58:07 2015: *** LOG: last_diff_n:  1245  pct:  0.0519269
+Tue Jan 27 11:58:39 2015: *** LOG: SaveUndo of action: MoveCol on: TrialOutputData at path: .data.gp[1][0] saving at: .data.gp[1][0]
+Tue Jan 27 11:59:03 2015: *** LOG: SaveUndo of action: MoveCol on: TrialOutputData at path: .data.gp[1][0] saving at: .data.gp[1][0]
+Tue Jan 27 12:00:07 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_with_end_decision_autosave.proj
+Tue Jan 27 12:02:26 2015: *** LOG: SaveUndo of action: Edit on: Fm_Output at path: .networks[0].layers[3].projections[0] saving at: .networks[0].layers[3].projections[0]
+Tue Jan 27 12:02:27 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_with_end_decision_autosave.proj
+Tue Jan 27 12:07:42 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_with_end_decision_autosave.proj
+Tue Jan 27 12:07:44 2015: *** LOG: SaveUndo of action: Call Method: New_gui on: layers at path: .networks[0].layers saving at: .
+Tue Jan 27 12:07:44 2015: *** LOG: last_diff_n:  2155  pct:  0.0898815
+Tue Jan 27 12:07:56 2015: *** LOG: SaveUndo of action: Edit on: LeabraLayer_5 at path: .networks[0].layers[4] saving at: .networks[0].layers[4]
+Tue Jan 27 12:08:30 2015: *** LOG: SaveUndo of action: Edit on: Copy_of_Target at path: .networks[0].layers[4] saving at: .networks[0].layers[4]
+Tue Jan 27 12:08:34 2015: *** LOG: SaveUndo of action: Edit on: Copy_of_Target at path: .networks[0].layers[4] saving at: .networks[0].layers[4]
+Tue Jan 27 12:08:41 2015: *** LOG: SaveUndo of action: Edit on: Copy_of_Target at path: .networks[0].layers[4] saving at: .networks[0].layers[4]
+Tue Jan 27 12:08:47 2015: *** LOG: SaveUndo of action: Call Method: ConnectFrom on: Projection_Group_21 at path: .networks[0].layers[4].projections saving at: .
+Tue Jan 27 12:08:47 2015: *** LOG: last_diff_n:  2217  pct:  0.0924675
+Tue Jan 27 12:09:34 2015: *** LOG: SaveUndo of action: Edit on: Copy_of_Target at path: .networks[0].layers[4] saving at: .networks[0].layers[4]
+Tue Jan 27 12:10:27 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_with_end_decision_autosave.proj
+Tue Jan 27 12:10:31 2015: *** LOG: SaveUndo of action: Call Method: Build on: Network_1 at path: .networks[0] saving at: .
+Tue Jan 27 12:10:31 2015: ***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["Copy_of_Target"] getting a new spec of type: LeabraExtOnlyUnitSpec
+Tue Jan 27 12:10:31 2015: *** LOG: last_diff_n:  2238  pct:  0.0933433
+Tue Jan 27 12:10:31 2015: ***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["Copy_of_Target"] set spec pointer to NEW spec I just created, named: LeabraExtOnlyUnitSpec_1 of type: LeabraExtOnlyUnitSpec
+Tue Jan 27 12:10:37 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:10:37 2015: *** LOG: last_diff_n:  1340  pct:  0.0558892
+Tue Jan 27 12:10:38 2015: ***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+
+Tue Jan 27 12:10:40 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:10:40 2015: *** LOG: last_diff_n:  1368  pct:  0.0570571
+Tue Jan 27 12:10:49 2015: *** LOG: SaveUndo of action: Call Method: Stop on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:10:49 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:10:51 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:10:51 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:10:59 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:10:59 2015: *** LOG: last_diff_n:  1358  pct:  0.05664
+Tue Jan 27 12:11:00 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:00 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:11:02 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:02 2015: *** LOG: last_diff_n:  1358  pct:  0.05664
+Tue Jan 27 12:11:04 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:04 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:11:05 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:05 2015: *** LOG: last_diff_n:  1358  pct:  0.05664
+Tue Jan 27 12:11:06 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:06 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:11:08 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:08 2015: *** LOG: last_diff_n:  1358  pct:  0.05664
+Tue Jan 27 12:11:09 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:09 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:11:10 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:11 2015: *** LOG: last_diff_n:  1358  pct:  0.05664
+Tue Jan 27 12:11:11 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:11 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:11:12 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:12 2015: *** LOG: last_diff_n:  1358  pct:  0.05664
+Tue Jan 27 12:11:12 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:12 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:11:13 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:13 2015: *** LOG: last_diff_n:  1358  pct:  0.05664
+Tue Jan 27 12:11:13 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:13 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:11:13 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:11:13 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:11:34 2015: *** LOG: SaveUndo of action: Edit on: Copy_of_Target at path: .networks[0].layers[4] saving at: .networks[0].layers[4]
+Tue Jan 27 12:12:13 2015: *** LOG: SaveUndo of action: Edit on: Copy_of_Target at path: .networks[0].layers[4] saving at: .networks[0].layers[4]
+Tue Jan 27 12:12:27 2015: *** DEBUG: Saved auto save file: /Users/timsainb/Documents/StatLearn/StatisticalWordLearningLeabra/StatLearn_3_with_end_decision_autosave.proj
+Tue Jan 27 12:12:43 2015: *** LOG: SaveUndo of action: Call Method: Build on: Network_1 at path: .networks[0] saving at: .
+Tue Jan 27 12:12:43 2015: ***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["Copy_of_Target"] getting a new spec of type: LeabraExtOnlyUnitSpec
+Tue Jan 27 12:12:43 2015: *** LOG: last_diff_n:  2329  pct:  0.0971388
+Tue Jan 27 12:12:43 2015: ***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_with_end_decision"].networks["Network_1"].layers["Copy_of_Target"] set spec pointer to existing spec named: LeabraExtOnlyUnitSpec_1 of correct type: LeabraExtOnlyUnitSpec
+Tue Jan 27 12:12:48 2015: *** LOG: SaveUndo of action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:12:48 2015: *** LOG: last_diff_n:  1353  pct:  0.0564314
+Tue Jan 27 12:12:48 2015: ***WARNING: LayerWriter LayerWriter_0 fm data: StdInputData to net: Network_1::AutoConfig() (path: .projects["StatLearn_3_with_end_decision"].programs.gp["LeabraAll_Std"]["ApplyInputs"].objs["LayerWriter_0"])
+ did not find data column for layer named: EndOfWord of type: OUTPUT
+ApplyInputs ApplyInputs line: 000019
+  LayerWriter_0->AutoConfig();
+
+Tue Jan 27 12:12:49 2015: *** LOG: SaveUndo of action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:12:49 2015: *** LOG: last_diff_n:  1372  pct:  0.0572239
+Tue Jan 27 12:12:59 2015: *** LOG: SaveUndo of action: Call Method: Stop on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:12:59 2015: *** LOG: last_diff_n:  1357  pct:  0.0565983
+Tue Jan 27 12:13:02 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:02 2015: *** LOG: last_diff_n:  1357  pct:  0.0565983
+Tue Jan 27 12:13:03 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:03 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:16 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:17 2015: *** LOG: last_diff_n:  1357  pct:  0.0565983
+Tue Jan 27 12:13:18 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:18 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:19 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:19 2015: *** LOG: last_diff_n:  1357  pct:  0.0565983
+Tue Jan 27 12:13:20 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:20 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:21 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:21 2015: *** LOG: last_diff_n:  1357  pct:  0.0565983
+Tue Jan 27 12:13:22 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:22 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:24 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:24 2015: *** LOG: last_diff_n:  1357  pct:  0.0565983
+Tue Jan 27 12:13:25 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:25 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:26 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:26 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:27 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:27 2015: *** LOG: last_diff_n:  1352  pct:  0.0563897
+Tue Jan 27 12:13:27 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:27 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:13:28 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:28 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:29 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:29 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:13:30 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:30 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:30 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:30 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:13:30 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:31 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:31 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:31 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:13:31 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:31 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:32 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:32 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:13:33 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:33 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:33 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:33 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:13:33 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:33 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:34 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:34 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:13:34 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:34 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:35 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:35 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:13:35 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:35 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:36 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:36 2015: *** LOG: last_diff_n:  1356  pct:  0.0565566
+Tue Jan 27 12:13:36 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:36 2015: *** LOG: last_diff_n:  1354  pct:  0.0564731
+Tue Jan 27 12:13:39 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:39 2015: *** LOG: last_diff_n:  1353  pct:  0.0564314
+Tue Jan 27 12:13:40 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:40 2015: *** LOG: last_diff_n:  1351  pct:  0.056348
+Tue Jan 27 12:13:41 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:41 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:43 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:43 2015: *** LOG: last_diff_n:  1353  pct:  0.0564314
+Tue Jan 27 12:13:44 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:44 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:45 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:45 2015: *** LOG: last_diff_n:  1353  pct:  0.0564314
+Tue Jan 27 12:13:48 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:48 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:49 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:49 2015: *** LOG: last_diff_n:  1353  pct:  0.0564314
+Tue Jan 27 12:13:50 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:50 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:50 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:50 2015: *** LOG: last_diff_n:  1353  pct:  0.0564314
+Tue Jan 27 12:13:50 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:50 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:50 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:50 2015: *** LOG: last_diff_n:  1353  pct:  0.0564314
+Tue Jan 27 12:13:51 2015: *** LOG: SaveUndo of action: Call Method: Step_Gui on: LeabraTrain at path: .programs.gp[0][1] saving at: .
+Tue Jan 27 12:13:51 2015: *** LOG: last_diff_n:  1355  pct:  0.0565148
+Tue Jan 27 12:13:54 2015: *** LOG: SaveUndo of action: Delete on: EndOfWord at path: .networks[0].layers[3] saving at: .
+Tue Jan 27 12:13:54 2015: *** LOG: last_diff_n:  2329  pct:  0.0971388
+Tue Jan 27 12:13:55 2015: *** LOG: SaveUndo of action: Delete on: Copy_of_Target at path: .networks[0].layers[3] saving at: .
+Tue Jan 27 12:13:55 2015: *** LOG: last_diff_n:  2255  pct:  0.0940524
