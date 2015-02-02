@@ -1,0 +1,6 @@
+Sun Feb  1 14:40:25 2015: taMisc::SetLogFile -- Log file opened for writing.
+Sun Feb  1 14:40:25 2015: ***ERROR: dims must be >1 to GetFrameSlice 
+
+Path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].data.gp["InputData"]["StdInputData"].data["Voice"].ar
+
+From: String_Matrix ar::GetFrameSlice_()

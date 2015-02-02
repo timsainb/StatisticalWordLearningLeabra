@@ -2344,7 +2344,7 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
     UserDataItem @["batch"] { };
    };
 
-   BaseSpec_Group @.specs = [12] {
+   BaseSpec_Group @.specs = [14] {
     LeabraLayerSpec @["HiddenLayer"] { 
      BaseSpec_Group @.children = [1] {
       LeabraLayerSpec @["Input_Output"] { 
@@ -2426,9 +2426,17 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
      BaseSpec_Group @.children = [0] {
      };
     };
+    OneToOnePrjnSpec @["CtxtPrjn"] { 
+     BaseSpec_Group @.children = [0] {
+     };
+    };
+    LeabraContextLayerSpec @["CtxtLayerSpec"] { 
+     BaseSpec_Group @.children = [0] {
+     };
+    };
    };
 
-   Layer_Group @.layers = [5] {
+   Layer_Group @.layers = [6] {
     LeabraLayer @["Input"] { 
      Projection_Group @.projections = [1] {
       LeabraPrjn @["Fm_Hidden"] { };
@@ -2438,10 +2446,19 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
      };
     };
     LeabraLayer @["Hidden"] { 
-     Projection_Group @.projections = [3] {
+     Projection_Group @.projections = [4] {
       LeabraPrjn @["Fm_Input"] { };
       LeabraPrjn @["Fm_Last_Input"] { };
       LeabraPrjn @["Fm_Voice"] { };
+      LeabraPrjn @["Fm_Context"] { };
+     };
+
+     Unit_Group @.units = [100] {
+     };
+    };
+    LeabraLayer @["Context"] { 
+     Projection_Group @.projections = [1] {
+      LeabraPrjn @["Fm_Hidden"] { };
      };
 
      Unit_Group @.units = [100] {
@@ -7909,11 +7926,11 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
        expr=;
       };
       dim_names {
-       name=;
+       name="dim_names";
       [2] ;;      };
       width=0;
       ar {
-       name=;
+       name="ar";
       [2 1 540] 1;0;1;0;1;0;1;0;1;0;
 1;0;0;1;0;1;0;1;1;0;
 1;0;1;0;1;0;1;0;1;0;
@@ -8191,11 +8208,11 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
        expr=;
       };
       dim_names {
-       name=;
+       name="dim_names";
       [1] ;      };
       width=90;
       ar {
-       name=;
+       name="ar";
       [2 1] "A";"B";      };
      };
     };
@@ -22780,7 +22797,7 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
    desc=;
    flags=NO_STOP_STEP;
    objs {
-    name=;
+    name="objs";
     el_typ=DataTable;
     el_def=0;
     DataTable @["Languages"] {
@@ -22819,11 +22836,11 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
 	expr=;
        };
        dim_names {
-	name=;
+	name="dim_names";
        [2] ;;       };
        width=132;
        ar {
-	name=;
+	name="ar";
        [3 4 1] 0;1;2;3;4;5;6;7;8;9;
 10;11;       };
       };
@@ -22856,11 +22873,11 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
 	expr=;
        };
        dim_names {
-	name=;
+	name="dim_names";
        [2] ;;       };
        width=132;
        ar {
-	name=;
+	name="ar";
        [3 4 1] 12;13;14;15;16;17;18;19;20;21;
 22;23;       };
       };
@@ -22893,11 +22910,11 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
 	expr=;
        };
        dim_names {
-	name=;
+	name="dim_names";
        [2] ;;       };
        width=132;
        ar {
-	name=;
+	name="ar";
        [3 4 1] 2;24;25;26;27;19;28;29;7;30;
 31;3;       };
       };
@@ -22930,11 +22947,11 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
 	expr=;
        };
        dim_names {
-	name=;
+	name="dim_names";
        [2] ;;       };
        width=132;
        ar {
-	name=;
+	name="ar";
        [3 4 1] 12;13;2;15;16;17;18;19;20;21;
 22;23;       };
       };
@@ -22944,12 +22961,12 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
      auto_load_file=;
      keygen 4 0=0;
      row_indexes {
-      name=;
+      name="row_indexes";
      [1] 0;     };
     };
    };
    types {
-    name=;
+    name="types";
     el_typ=DynEnumType;
     el_def=0;
     DynEnumType @["Input"] {
@@ -23339,7 +23356,7 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
     };
    };
    args {
-    name=;
+    name="args";
     el_typ=ProgVar;
     el_def=0;
     ProgVar @["input_data"] {
@@ -23355,7 +23372,7 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
     };
    };
    vars {
-    name=;
+    name="vars";
     el_typ=ProgVar;
     el_def=0;
     ProgVar @["unit_names"] {
@@ -23382,12 +23399,12 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
     };
    };
    functions {
-    name=;
+    name="functions";
     el_typ=Function;
     el_def=0;
    };
    init_code {
-    name=;
+    name="init_code";
     el_typ=ProgCode;
     el_def=0;
     InitNamedUnits @[0] {
@@ -23402,7 +23419,7 @@ LeabraProject .projects["StatLearn_3_bilingual3_selfLearningAttempt"] {
     };
    };
    prog_code {
-    name=;
+    name="prog_code";
     el_typ=ProgCode;
     el_def=0;
     LocalVars @[0] {
@@ -28004,7 +28021,7 @@ and the testing data is updated.  The first epoch monitor should have all the it
    name="Browser2";
    m_data=.projects["StatLearn_3_bilingual3_selfLearningAttempt"]$$;
    visible=1;
-   win_name=".projects[\"StatLearn_3_bilingual3_selfLearningAttempt\"] - StatLearn_3_bilingual3_selfLearningAttempt.proj";
+   win_name=".projects[\"StatLearn_3_bilingual3_selfLearningAttempt\"] - StatLearn_3_bilingual3_selfLearningAttempt_autosave_recover0.proj";
    m_is_root=0;
    m_is_viewer_xor_browser=0;
    m_is_proj_viewer=1;
@@ -28110,9 +28127,9 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=1: y=0: z=0: ro
 	  hist_ff=5;
 	  unit_disp_mode=UDM_BLOCK;
 	  unit_text_disp=UTD_NONE;
-	  max_size {x=12: y=11: z=2.333333: };
-	  max_size2d {x=15: y=39: z=1: };
-	  eff_max_size {x=12: y=11: z=2.333333: };
+	  max_size {x=12: y=11: z=3.25: };
+	  max_size2d {x=15: y=51: z=1: };
+	  eff_max_size {x=12: y=11: z=3.25: };
 	  font_sizes {
 	   net_name=0.05;
 	   net_vals=0.05;
@@ -28243,7 +28260,7 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=1: y=0: z=0: ro
 	    max=1;
 	   };
 	  };
-	  lay_disp_modes{ Input=-1;Hidden=-1;Output=-1;Last_Input=-1;Voice=-1;	  };
+	  lay_disp_modes{ Input=-1;Hidden=-1;Context=-1;Output=-1;Last_Input=-1;Voice=-1;	  };
 	 };
 	 GraphTableView @["TrialOutputData_Graph"] {
 	  name="TrialOutputData_Graph";
@@ -29262,7 +29279,7 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
 	   el_def=0;
 	  };
 	  view_rows=5;
-	  view_range {min=0: max=-1: };
+	  view_range {min=0: max=4: };
 	  display_on=1;
 	  manip_ctrl_on=1;
 	  col_n=5;
@@ -29565,7 +29582,7 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
 	   el_def=0;
 	  };
 	  view_rows=10000;
-	  view_range {min=0: max=-1: };
+	  view_range {min=0: max=0: };
 	  display_on=1;
 	  manip_ctrl_on=1;
 	  graph_type=XY;
@@ -29593,7 +29610,7 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
 	   is_matrix=0;
 	   n_cells=1;
 	   matrix_cell=0;
-	   fixed_range {fix_min=0: min=0: fix_max=0: max=-1: };
+	   fixed_range {fix_min=0: min=0: fix_max=0: max=0: };
 	   color {name="black": r=0: g=0: b=0: a=1: desc="": };
 	   n_ticks=10;
 	   axis_length=1;
@@ -29632,7 +29649,7 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
 	    is_matrix=0;
 	    n_cells=1;
 	    matrix_cell=0;
-	    fixed_range {fix_min=0: min=0: fix_max=0: max=1: };
+	    fixed_range {fix_min=0: min=4.065164: fix_max=0: max=4.065164: };
 	    color {name="black": r=0: g=0: b=0: a=1: desc="": };
 	    n_ticks=10;
 	    axis_length=1;
@@ -32229,6 +32246,74 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
       abs_lrate=0.2;
      };
     };
+    OneToOnePrjnSpec @["CtxtPrjn"] {
+     name="CtxtPrjn";
+     desc=;
+     unique{ self_con;     };
+     children {
+      name="children";
+      el_typ=OneToOnePrjnSpec;
+      el_def=0;
+     };
+     self_con=1;
+     init_wts=0;
+     add_rnd_wts=0;
+     add_rnd_wts_scale=1;
+     n_conns=-1;
+     recv_start=0;
+     send_start=0;
+     use_gp=0;
+    };
+    LeabraContextLayerSpec @["CtxtLayerSpec"] {
+     name="CtxtLayerSpec";
+     desc=;
+     unique{ decay;     };
+     children {
+      name="children";
+      el_typ=LeabraContextLayerSpec;
+      el_def=0;
+     };
+     inhib_group=ENTIRE_LAYER;
+     inhib {
+      type=FF_FB_INHIB;
+      kwta_pt=1.21913e-43;
+      gi=2;
+      ff=1;
+      fb=0.5;
+      self_fb=0;
+      prv_trl_ff=0;
+      prv_phs_ff=0;
+      dt=0.7;
+      up_immed=0;
+      ff0=0.1;
+      min_i=0;
+     };
+     kwta {k_from=USE_PCT: k=12: pct=0.25: pat_q=0.2: avg_dt=0.005: diff_act_pct=0: act_pct=0.1: };
+     gp_kwta {k_from=USE_PCT: k=12: pct=0.25: pat_q=0.2: avg_dt=0.005: diff_act_pct=0: act_pct=0.1: };
+     lay_gp_inhib {on=0: fffb=0: lay_gi=2: gp_g=0.5: self_g=1: diff_act_pct=0: act_pct_mult=0.5: pct_fm_frac=0: act_denom=3: };
+     unit_gp_inhib {on=0: fffb=0: lay_gi=2: gp_g=0.5: self_g=1: diff_act_pct=0: act_pct_mult=0.5: pct_fm_frac=0: act_denom=3: };
+     clamp {hard=1: gain=0.2: max_plus=0: plus=0.01: min_clamp=0.5: minus_targ_gain=0: };
+     decay {event=0: phase=0: phase2=0: };
+     cos_diff_lrate {on=1: lo_diff=0: lo_lrate=0.01: hi_diff=1: hi_lrate=0.01: avg_dt=0.01: };
+     ct_inhib_mod {
+      manual_sravg=0;
+      sravg_delay=0;
+      use_sin=0;
+      burst_i=0.02;
+      trough_i=0.02;
+      use_fin=0;
+      inhib_i=0;
+     };
+     tie_brk {on=0: k_thr=1: diff_thr=0.2: thr_gain=0.005: loser_gain=1: };
+     adapt_i {type=NONE: tol=0.02: p_dt=0.1: mx_d=0.9: l=0.2: a_dt=0.005: };
+     abs_net_adapt {
+      on=0;
+      trg_net=0.5;
+      tol=0.1;
+      abs_lrate=0.2;
+     };
+     updt {fm_hid=1: fm_prv=0: to_out=1: };
+    };
    };
    layers {
     name="layers";
@@ -32236,8 +32321,8 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
     el_def=0;
     pos {x=0: y=0: z=0: };
     pos2d {x=0: y=0: };
-    max_disp_size {x=12: y=11: z=3: };
-    max_disp_size2d {x=15: y=39: };
+    max_disp_size {x=12: y=11: z=4: };
+    max_disp_size2d {x=15: y=51: };
     LeabraLayer @["Input"] {
      name="Input";
      desc=;
@@ -32270,7 +32355,7 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
        sendcons_type=LeabraSendCons;
        con_spec {type=LeabraConSpec: spec=.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["LeabraConSpec_1"]$$: };
        recv_idx=0;
-       send_idx=1;
+       send_idx=2;
        recv_n=1;
        send_n=1;
        projected=1;
@@ -32385,6 +32470,26 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
        prjn_clr {r=1: g=0.9: b=0.5: a=1: };
        trg_netin_rel=-1;
       };
+      LeabraPrjn @["Fm_Context"] {
+       name="Fm_Context";
+       off=0;
+       disp=1;
+       from_type=CUSTOM;
+       from=.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Context"]$$;
+       spec {type=FullPrjnSpec: spec=$.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"]$: };
+       con_type=LeabraCon;
+       recvcons_type=LeabraRecvCons;
+       sendcons_type=LeabraSendCons;
+       con_spec {type=LeabraConSpec: spec=$.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["LeabraConSpec_1"]$: };
+       recv_idx=3;
+       send_idx=0;
+       recv_n=1;
+       send_n=1;
+       projected=1;
+       direction=DIR_UNKNOWN;
+       prjn_clr {r=1: g=0.9: b=0.5: a=1: };
+       trg_netin_rel=-1;
+      };
      };
      send_prjns {
       name="send_prjns";
@@ -32392,6 +32497,7 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
       el_def=0;
       Projection_Group @. = [0] = LeabraPrjn .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Output"].projections["Fm_Hidden"];
       Projection_Group @. = [1] = LeabraPrjn .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Input"].projections["Fm_Hidden"];
+      Projection_Group @. = [2] = LeabraPrjn .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Context"].projections["Fm_Hidden"];
      };
      units {
       name="units";
@@ -32411,6 +32517,72 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
      brain_area=;
      voxel_fill_pct=1;
      spec {type=LeabraLayerSpec: spec=$.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["HiddenLayer"]$: };
+    };
+    LeabraLayer @["Context"] {
+     name="Context";
+     desc=;
+     flags=0;
+     layer_type=HIDDEN;
+     pos {x=0: y=0: z=3: };
+     pos2d {x=0: y=41: };
+     disp_scale=1;
+     un_geom {x=10: y=10: n_not_xy=0: n=100: };
+     unit_groups=0;
+     virt_groups=1;
+     gp_geom {x=1: y=1: n_not_xy=0: n=1: };
+     gp_spc {x=1: y=1: };
+     flat_geom {x=10: y=10: n_not_xy=0: n=100: };
+     disp_geom {x=10: y=10: n_not_xy=0: n=100: };
+     scaled_disp_geom {x=10: y=10: n_not_xy=0: n=1: };
+     projections {
+      name="projections";
+      el_typ=LeabraPrjn;
+      el_def=0;
+      LeabraPrjn @["Fm_Hidden"] {
+       name="Fm_Hidden";
+       off=0;
+       disp=1;
+       from_type=CUSTOM;
+       from=$.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Hidden"]$;
+       spec {type=OneToOnePrjnSpec: spec=.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["CtxtPrjn"]$$: };
+       con_type=LeabraCon;
+       recvcons_type=LeabraRecvCons;
+       sendcons_type=LeabraSendCons;
+       con_spec {type=LeabraConSpec: spec=$.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["LeabraConSpec_1"]$: };
+       recv_idx=0;
+       send_idx=1;
+       recv_n=1;
+       send_n=1;
+       projected=1;
+       direction=DIR_UNKNOWN;
+       prjn_clr {r=1: g=0.9: b=0.5: a=1: };
+       trg_netin_rel=-1;
+      };
+     };
+     send_prjns {
+      name="send_prjns";
+      el_typ=LeabraPrjn;
+      el_def=0;
+      Projection_Group @. = [0] = LeabraPrjn .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Hidden"].projections["Fm_Context"];
+     };
+     units {
+      name="units";
+      el_typ=LeabraUnit;
+      el_def=0;
+      pos {x=0: y=0: z=0: };
+      output_name=;
+     };
+     unit_spec {type=LeabraUnitSpec: spec=$.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["LeabraUnitSpec_1"]$: };
+     dmem_dist=DMEM_DIST_DEFAULT;
+     dist {
+      fm_input=-1;
+      fm_output=-1;
+     };
+     units_lesioned=0;
+     gp_unit_names_4d=0;
+     brain_area=;
+     voxel_fill_pct=1;
+     spec {type=LeabraContextLayerSpec: spec=.projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["CtxtLayerSpec"]$$: };
     };
     LeabraLayer @["Output"] {
      name="Output";
@@ -32620,11 +32792,11 @@ taTransform @*(.m_transform) {scale={x=1: y=1: z=1: }: rotate={x=0: y=0: z=1: ro
    dmem_nprocs=1;
    usr1_save_fmt=FULL_NET;
    wt_save_fmt=TEXT;
-   n_units=201;
-   n_cons=14489;
-   max_prjns=3;
-   max_disp_size {x=12: y=11: z=3: };
-   max_disp_size2d {x=15: y=39: };
+   n_units=301;
+   n_cons=24589;
+   max_prjns=4;
+   max_disp_size {x=12: y=11: z=4: };
+   max_disp_size2d {x=15: y=51: };
    learn_rule=CTLEABRA_XCAL;
    ti_mode=0;
    phase_order=MINUS_PLUS;

@@ -1,0 +1,149 @@
+emergent> 
+Network: Network_1 auto building
+Network_1 Weights Initialized
+0
+***ERROR: data->dims must be 2 (2-d) or 4 (4-d) 
+
+Path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Voice"]
+
+From: LeabraLayer Voice::ApplyInputData()
+
+ApplyInputs  line: 000029
+  LayerWriter_0->ApplyInputData();
+Network_1 Weights Initialized
+0
+***ERROR: Error in: LeabraLayer Voice::ApplyInputData() (path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Voice"])
+ data->dims must be 2 (2-d) or 4 (4-d)
+ApplyInputs ApplyInputs line: 000029
+  LayerWriter_0->ApplyInputData();
+***ERROR: Program is not running 
+
+Path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].programs.gp["LeabraAll_Std"]["ApplyInputs"]
+
+From: Program ApplyInputs::Stop()
+***ERROR: Hard-coded (C++) enum's are not supported for local variables -- please use an int or String variable instead. 
+
+Path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].programs["Stat5"].prog_code[0].local_vars["ProgVar_112"]
+
+From: ProgVar ProgVar_112 = (NULL hard enum type)::UpdateAfterEdit()
+***ERROR: Error in: ProgVar ProgVar_112 = (NULL hard enum type)::UpdateAfterEdit() (path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].programs["Stat5"].prog_code[0].local_vars["ProgVar_112"])
+ Hard-coded (C++) enum's are not supported for local variables -- please use an int or String variable instead.
+emergent 
+Languages = .projects["StatLearn_3_bilingual3_selfLearningAttempt"].programs["Stat5"].objs["Languages"]
+syntax error, unexpected CSS_NAME
+["Stat5"].prog_code[3].expr line: 000001
+int __tmp= Language[0,0,0];
+           ^
+syntax error, unexpected CSS_NAME
+["Stat5"].prog_code[3].expr line: 000001
+int __tmp= Language[0,0,0];
+           ^
+syntax error, unexpected CSS_NAME
+Stat5 line: 000111
+  cout << Language[0,0,0] << endl;
+          ^
+***CHECK ERROR: ProgExpr in program element: Print: Language[0,0,0] 
+ in program: Stat5  Errors in expression -- the following variable names could not be found: Language   
+Network_1 Weights Initialized
+***ERROR: cell index out of range 
+
+Path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].data.gp["InputData"]["StdInputData"].data["Voice"]
+
+From: String_Data Voice::IndexOfEl_Flat()
+
+Stat5 Stat5 line: 000137
+      input_data.SetValAsFloatM(1.0, 3, -1, voice);
+Cancelling remaining error messages in this batch
+Network_1 Weights Initialized
+***ERROR: data->dims must be 2 (2-d) or 4 (4-d) 
+
+Path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Voice"]
+
+From: LeabraLayer Voice::ApplyInputData()
+
+ApplyInputs ApplyInputs line: 000029
+  LayerWriter_0->ApplyInputData();
+Cancelling remaining error messages in this batch
+2015-02-01 15:00:05.540 emergent[39905:3397704] modalSession has been exited prematurely - check for a reentrant call to endModalSession:
+2015-02-01 15:01:49.428 emergent[39905:3397704] modalSession has been exited prematurely - check for a reentrant call to endModalSession:
+Network_1 Weights Initialized
+***ERROR: Error in: LeabraLayer Voice::ApplyInputData() (path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Voice"])
+ data->dims must be 2 (2-d) or 4 (4-d)
+ApplyInputs ApplyInputs line: 000029
+  LayerWriter_0->ApplyInputData();
+Network_1 Weights Initialized
+***ERROR: Error in: LeabraLayer Voice::ApplyInputData() (path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Voice"])
+ data->dims must be 2 (2-d) or 4 (4-d)
+ApplyInputs ApplyInputs line: 000029
+  LayerWriter_0->ApplyInputData();
+Null pointer for conversion to: DataTable from: DataTable     
+emergent 
+Network_1 Weights Initialized
+Undoing action: Call Method: SRNContext on: LeabraWizard_0 at path: .wizards[0]
+load reset size: 1
+Redoing action: Call Method: SRNContext on: LeabraWizard_0 at path: .wizards[0]
+Undoing action: Call Method: SRNContext on: LeabraWizard_0 at path: .wizards[0]
+Undoing action: Call Method: SaveData_Gui on: TrialOutputData at path: .data.gp[1][0]
+***CHECK ERROR: Config Error in: FullPrjnSpec FullPrjnSpec_1
+path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"]
+ from is null -- must set from!
+***CHECK ERROR: Network: Network_1 Needs the 'Connect' command to be run
+***CHECK ERROR: Config Error in: FullPrjnSpec FullPrjnSpec_1
+path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"]
+ from is null -- must set from!
+***WARNING: FullPrjnSpec FullPrjnSpec_1::Connect() (path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"])
+ from pointer is NULL -- cannot make this projection
+LeabraTrain LeabraTrain line: 000073
+      network->Build();
+***CHECK ERROR: Config Error in: FullPrjnSpec FullPrjnSpec_1
+path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"]
+ from is null -- must set from!
+***CHECK ERROR: Network: Network_1 Needs the 'Connect' command to be run
+***CHECK ERROR: Config Error in: FullPrjnSpec FullPrjnSpec_1
+path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"]
+ from is null -- must set from!
+Network_1 Weights Initialized
+Undoing action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1]
+Undoing action: Delete on: Context at path: .networks[0].layers[2]
+Undoing action: Call Method: SaveData_Gui on: TrialOutputData at path: .data.gp[1][0]
+Undoing action: MoveCol on: TrialOutputData at path: .data.gp[1][0]
+Undoing action: Call Method: Run_Gui on: LeabraTrain at path: .programs.gp[0][1]
+Undoing action: Call Method: Init on: LeabraTrain at path: .programs.gp[0][1]
+Undoing action: Call Method: Run_Gui on: LeabraTrial at path: .programs.gp[0][3]
+Undoing action: Call Method: Init on: LeabraTrial at path: .programs.gp[0][3]
+Undoing action: Call Method: Run_Gui on: Stat5 at path: .programs[4]
+Undoing action: Call Method: Init on: Stat5 at path: .programs[4]
+***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Context"]
+   getting a new spec of type: LeabraContextLayerSpec
+***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Context"]
+   set spec pointer to existing spec named: LeabraContextLayerSpec_1 of correct type: LeabraContextLayerSpec
+***CHECK ERROR: CheckSpec: spec is NULL in object: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Context"].projections["Fm_Hidden"]
+   getting a new spec of type: OneToOnePrjnSpec
+***CHECK ERROR: GetSpecOfType for object: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].layers["Context"].projections["Fm_Hidden"]
+   set spec pointer to NEW spec I just created, named: OneToOnePrjnSpec_1 of type: OneToOnePrjnSpec
+***WARNING: FullPrjnSpec FullPrjnSpec_1::Connect() (path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"])
+ from pointer is NULL -- cannot make this projection
+***CHECK ERROR: Config Error in: FullPrjnSpec FullPrjnSpec_1
+path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"]
+ from is null -- must set from!
+***CHECK ERROR: Network: Network_1 Needs the 'Connect' command to be run
+***CHECK ERROR: Config Error in: FullPrjnSpec FullPrjnSpec_1
+path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"]
+ from is null -- must set from!
+***WARNING: FullPrjnSpec FullPrjnSpec_1::Connect() (path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"])
+ from pointer is NULL -- cannot make this projection
+LeabraTrain LeabraTrain line: 000073
+      network->Build();
+***CHECK ERROR: Config Error in: FullPrjnSpec FullPrjnSpec_1
+path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"]
+ from is null -- must set from!
+***CHECK ERROR: Network: Network_1 Needs the 'Connect' command to be run
+***CHECK ERROR: Config Error in: FullPrjnSpec FullPrjnSpec_1
+path: .projects["StatLearn_3_bilingual3_selfLearningAttempt"].networks["Network_1"].specs["FullPrjnSpec_1"]
+ from is null -- must set from!
+Network_1 Weights Initialized
+Network: Network_1 auto building
+Coin warning in cc_glglue_instance(): Error when setting up the GL context. This can happen if there is no current context, or if the context has been set up incorrectly.
+Coin warning in cc_glglue_instance(): Error when setting up the GL context. This can happen if there is no current context, or if the context has been set up incorrectly.
+libc++abi.dylib: Pure virtual function called!
+Saving recover file(s) and exiting from signal: abort
